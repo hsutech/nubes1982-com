@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nubes1982.com/sitemap.xml
