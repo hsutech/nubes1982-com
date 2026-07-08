@@ -1,6 +1,8 @@
-# nubes1982.com
+# nubes1982-com
 
-Static site for nubes1982.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: nubes1982-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `nubes1982-com`
