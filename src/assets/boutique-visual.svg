@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="t d"><title id="t">Editorial de moda Nubes 1982</title><desc id="d">Perchero, vestido, bolso, complementos y notas de color para una tienda de moda.</desc><rect width="900" height="760" fill="#f5f2ed"/><rect x="80" y="86" width="740" height="560" rx="18" fill="#fbfaf7"/><path d="M190 164h520" stroke="#26342f" stroke-width="14" stroke-linecap="round"/><path d="M232 164v392M668 164v392" stroke="#26342f" stroke-width="10" stroke-linecap="round"/><path d="M360 164c0 40-58 47-70 116l-42 220h218l-40-220c-12-69-66-76-66-116z" fill="#a95f64"/><path d="M512 178c-18 70-34 116-84 154 51 33 65 76 82 160h160c-24-100-54-173-82-314h-76z" fill="#607466"/><path d="M250 570h430" stroke="#26342f" stroke-width="10" stroke-linecap="round"/><circle cx="702" cy="476" r="62" fill="#d8b8a9"/><path d="M652 476c6 50 22 86 50 86s44-36 50-86" fill="none" stroke="#26342f" stroke-width="8"/><rect x="130" y="522" width="140" height="72" rx="12" fill="#26342f"/><circle cx="170" cy="558" r="10" fill="#fbfaf7"/><circle cx="230" cy="558" r="10" fill="#fbfaf7"/><path d="M315 604c42-22 86-22 128 0" stroke="#b96f59" stroke-width="12" stroke-linecap="round"/><text x="116" y="704" font-family="Georgia,serif" font-size="42" fill="#26342f">Cambia tu estilo, cambia tu vida.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="t d">
+  <title id="t">Nubes 1982 calm wardrobe</title>
+  <desc id="d">Soft wardrobe planner with folded clothes, color notes and cloud-shaped mirror.</desc>
+  <rect width="900" height="760" fill="#f3f6f8"/>
+  <rect x="82" y="76" width="736" height="590" rx="34" fill="#fff" stroke="#d8e0e6" stroke-width="4"/>
+  <path d="M216 214c18-56 68-86 126-76 28-46 92-54 132-14 66-20 128 24 130 88 48 12 80 48 80 94 0 64-52 108-126 108H248c-78 0-132-42-132-100 0-50 38-90 100-100z" fill="#edf3f6" stroke="#202a33" stroke-width="7"/>
+  <rect x="148" y="482" width="168" height="82" rx="14" fill="#667c8f"/>
+  <rect x="348" y="482" width="168" height="82" rx="14" fill="#b9a1a5"/>
+  <rect x="548" y="482" width="168" height="82" rx="14" fill="#7d8a76"/>
+  <path d="M156 604h560" stroke="#202a33" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="188" cy="246" r="18" fill="#667c8f"/>
+  <circle cx="708" cy="246" r="18" fill="#b9a1a5"/>
+  <path d="M328 628c52-22 116-22 168 0" stroke="#667c8f" stroke-width="12" stroke-linecap="round"/>
+  <text x="122" y="708" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#202a33">Cambia tu estilo, respira tu vida.</text>
+</svg>
