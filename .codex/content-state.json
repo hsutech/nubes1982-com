@@ -9,11 +9,26 @@
       "keyword": "mejores boutiques en Carmona",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "draft_ready",
+      "status": "published",
       "slug": "mejores-boutiques-carmona",
       "url": "https://nubes1982.com/blog/mejores-boutiques-carmona/",
       "title": "Mejores boutiques en Carmona: 7 criterios para elegir bien",
       "selectedAt": "2026-07-15",
+      "publishedAt": "2026-07-15T13:30:00Z",
+      "commit": "386bc3a",
+      "verification": {
+        "verifiedAt": "2026-07-15T13:31:00Z",
+        "httpStatus": 200,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML",
+          "H1 matched the planned title",
+          "Canonical matched https://nubes1982.com/blog/mejores-boutiques-carmona/",
+          "Featured image loaded as JPEG",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Desktop and mobile render checks passed without page overflow"
+        ]
+      },
       "serp": {
         "target": "Google ES / Carmona y Sevilla",
         "observations": [
