@@ -1,0 +1,43 @@
+{
+  "domain": "nubes1982.com",
+  "company": "Modas Nubes",
+  "market": "Carmona, Sevilla, Spain",
+  "language": "Español",
+  "lastRun": "2026-07-15",
+  "items": [
+    {
+      "keyword": "mejores boutiques en Carmona",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "draft_ready",
+      "slug": "mejores-boutiques-carmona",
+      "url": "https://nubes1982.com/blog/mejores-boutiques-carmona/",
+      "title": "Mejores boutiques en Carmona: 7 criterios para elegir bien",
+      "selectedAt": "2026-07-15",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP ofrece pocos articulos editoriales locales para la keyword exacta; predominan directorios, noticias de comercio local y resultados ambiguos sobre Carretera de Carmona en Sevilla.",
+          "La intencion es comercial local: comparar boutiques o tiendas de moda antes de desplazarse o contactar.",
+          "El gap principal es una guia BOFU con metodo transparente que no invente rankings, precios ni reseñas.",
+          "Los resultados relevantes tienden a paginas cortas o noticias sin tabla de contenidos, comparativas ni FAQs; conviene aportar estructura, criterios y enlaces locales."
+        ],
+        "sources": [
+          "https://cadenaser.com/andalucia/2025/03/22/sevilla-pueblo-a-pueblo-desde-eme-la-exposicion-de-mujeres-empresarias-y-emprendedoras-de-carmona-radio-sevilla/",
+          "https://cadenaser.com/andalucia/2024/12/13/hoy-por-hoy-sevilla-desde-la-plaza-de-abastos-de-carmona-un-lugar-monumental-para-una-ciudad-historica-radio-sevilla/",
+          "https://cadenaser.com/andalucia/2026/02/06/los-arcos-incorpora-encuentro-y-refuerza-su-oferta-de-moda-femenina-radio-sevilla/",
+          "https://es.wikipedia.org/wiki/Carmona",
+          "https://www.instagram.com/nubes1982/"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial local y enfoque BOFU sin ranking no verificable.",
+        "originality": "Contenido original basado en criterios observables y contexto local.",
+        "accuracy": "No se inventan reseñas, precios, expertos, rankings ni experiencia personal.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla, FAQPage, Article schema, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales y fuentes externas consultadas.",
+        "multimedia": "Imagen destacada original optimizada; no se incluyo video porque los resultados disponibles no aportaban prueba o utilidad directa para esta intencion."
+      }
+    }
+  ]
+}
