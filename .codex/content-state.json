@@ -68,11 +68,26 @@
       "keyword": "mejores tiendas de moda mujer en Carmona",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "selected",
+      "status": "published",
       "slug": "mejores-tiendas-moda-mujer-carmona",
       "url": "https://nubes1982.com/blog/mejores-tiendas-moda-mujer-carmona/",
       "title": "Mejores tiendas de moda mujer en Carmona: 7 claves para elegir bien",
       "selectedAt": "2026-07-16",
+      "publishedAt": "2026-07-16T13:32:00Z",
+      "commit": "e36112f",
+      "verification": {
+        "verifiedAt": "2026-07-16T13:32:00Z",
+        "httpStatus": 200,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML",
+          "H1 matched the planned title",
+          "Canonical matched https://nubes1982.com/blog/mejores-tiendas-moda-mujer-carmona/",
+          "Featured image loaded as image/jpeg with natural width 1672",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Desktop and mobile render checks passed without horizontal overflow"
+        ]
+      },
       "serp": {
         "target": "Google ES / Carmona y Sevilla",
         "observations": [
