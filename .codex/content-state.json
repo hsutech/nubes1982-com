@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-15",
+  "lastRun": "2026-07-16",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -52,6 +52,49 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla, FAQPage, Article schema, canonical y Open Graph.",
         "links": "Incluye enlaces internos reales y fuentes externas consultadas.",
         "multimedia": "Imagen destacada original optimizada; no se incluyo video porque los resultados disponibles no aportaban prueba o utilidad directa para esta intencion."
+      }
+    },
+    {
+      "keyword": "mejores tiendas de ropa en Carmona",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "skipped",
+      "slug": "mejores-tiendas-ropa-carmona",
+      "selectedAt": "2026-07-16",
+      "skippedAt": "2026-07-16T14:55:00Z",
+      "reason": "Canibalizacion: la intencion principal duplica el articulo ya publicado sobre mejores boutiques en Carmona, que cubre comparar tiendas de ropa locales de forma general."
+    },
+    {
+      "keyword": "mejores tiendas de moda mujer en Carmona",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "selected",
+      "slug": "mejores-tiendas-moda-mujer-carmona",
+      "url": "https://nubes1982.com/blog/mejores-tiendas-moda-mujer-carmona/",
+      "title": "Mejores tiendas de moda mujer en Carmona: 7 claves para elegir bien",
+      "selectedAt": "2026-07-16",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP exacta para tiendas de moda mujer en Carmona tiene pocos resultados editoriales locales; predominan noticias de moda femenina en Sevilla, comercio local y resultados ambiguos relacionados con Carretera de Carmona.",
+          "La intencion es comercial local y BOFU: comparar opciones antes de desplazarse, probar tallas o contactar con una tienda.",
+          "Los primeros resultados relevantes son noticias o paginas informativas, normalmente cortas, con autoria periodistica, sin tabla de contenidos, comparativa local ni FAQs orientadas a compra.",
+          "El gap principal es una guia con criterios observables para moda mujer: estilo, tallaje, tejidos, complementos, politica de cambios, canales activos y compra en tienda fisica frente a online."
+        ],
+        "sources": [
+          "https://cadenaser.com/andalucia/2026/02/06/los-arcos-incorpora-encuentro-y-refuerza-su-oferta-de-moda-femenina-radio-sevilla/",
+          "https://cadenaser.com/andalucia/2025/03/22/sevilla-pueblo-a-pueblo-desde-eme-la-exposicion-de-mujeres-empresarias-y-emprendedoras-de-carmona-radio-sevilla/",
+          "https://es.wikipedia.org/wiki/Carmona",
+          "https://cadenaser.com/castillayleon/2025/01/07/consejos-para-comprar-en-la-campana-de-rebajas-radio-salamanca/"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Diferenciada del articulo de boutiques: foco especifico en moda mujer, tallaje, tejidos, looks y condiciones de compra.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce estructura ni texto de competidores.",
+        "accuracy": "No se inventan rankings, reseñas, precios, expertos, experiencia personal ni datos de tiendas terceras.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, FAQPage, Article schema, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales y fuentes externas consultadas.",
+        "multimedia": "Imagen destacada original optimizada; no se incluyo video porque no habia un resultado especifico que aportara utilidad directa a la decision de compra."
       }
     }
   ]
