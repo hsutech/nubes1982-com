@@ -116,17 +116,25 @@
       "keyword": "mejores tiendas de ropa infantil en Carmona",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "pushed_unverified",
+      "status": "published",
       "slug": "mejores-tiendas-ropa-infantil-carmona",
       "url": "https://nubes1982.com/blog/mejores-tiendas-ropa-infantil-carmona/",
       "title": "Mejores tiendas de ropa infantil en Carmona: 7 claves para elegir bien",
       "selectedAt": "2026-07-22",
-      "publishedAt": null,
-      "commit": null,
+      "publishedAt": "2026-07-22T13:55:00Z",
+      "commit": "e7bd921",
       "verification": {
-        "verifiedAt": null,
-        "httpStatus": null,
-        "checks": []
+        "verifiedAt": "2026-07-22T13:55:00Z",
+        "httpStatus": 200,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML on verification attempt 2",
+          "H1 matched the planned title",
+          "Canonical matched https://nubes1982.com/blog/mejores-tiendas-ropa-infantil-carmona/",
+          "Featured image loaded as image/jpeg with 439934 bytes and natural width 1672",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Desktop and mobile public render checks passed without horizontal overflow"
+        ]
       },
       "serp": {
         "target": "Google ES / Carmona y Sevilla",
