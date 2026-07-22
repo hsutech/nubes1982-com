@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-16",
+  "lastRun": "2026-07-22",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -110,6 +110,49 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, FAQPage, Article schema, canonical y Open Graph.",
         "links": "Incluye enlaces internos reales y fuentes externas consultadas.",
         "multimedia": "Imagen destacada original optimizada; no se incluyo video porque no habia un resultado especifico que aportara utilidad directa a la decision de compra."
+      }
+    },
+    {
+      "keyword": "mejores tiendas de ropa infantil en Carmona",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "pushed_unverified",
+      "slug": "mejores-tiendas-ropa-infantil-carmona",
+      "url": "https://nubes1982.com/blog/mejores-tiendas-ropa-infantil-carmona/",
+      "title": "Mejores tiendas de ropa infantil en Carmona: 7 claves para elegir bien",
+      "selectedAt": "2026-07-22",
+      "publishedAt": null,
+      "commit": null,
+      "verification": {
+        "verifiedAt": null,
+        "httpStatus": null,
+        "checks": []
+      },
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP exacta revisada el 22 de julio de 2026 muestra intencion comercial local: usuarios que quieren comparar tiendas infantiles, revisar catalogo y decidir si visitar o comprar online.",
+          "Los primeros resultados relevantes combinan paginas de negocio, ecommerce local, directorios y listados genericos; hay poca cobertura editorial independiente y especifica para Carmona.",
+          "Burbujas CM y Patuco Carmona aportan informacion primaria sobre oferta infantil, bebe, canastilla, ceremonia, contacto, horarios o catalogo online.",
+          "Directorios como Paginas Amarillas y listados como Nominis ofrecen descubrimiento de tiendas, pero no aportan un metodo editorial transparente para elegir; por eso el articulo evita ranking cerrado y usa criterios observables.",
+          "El gap principal es una guia BOFU que ayude a comparar tallaje, tejidos, comodidad, politica de cambios, compra fisica frente a online, regalos y prendas de evento sin inventar reseñas ni precios."
+        ],
+        "sources": [
+          "https://burbujascm.com/conocenos/",
+          "https://www.patucocarmona.es/tienda/",
+          "https://www.paginasamarillas.es/f/carmona/burbujas-cm_232368134_000000001.html",
+          "https://nominis.es/blog/10-mejores-tiendas-de-ropa-para-ninos/carmona-8/",
+          "https://www.boe.es/buscar/doc.php?id=DOUE-L-2011-82120",
+          "https://portal-cec.consumo.gob.es/es/comunicacion/noticias/2026/recomendaciones-de-cec-espana-para-comprar-en-rebajas"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial local y enfoque BOFU; diferenciada de boutiques generales y moda mujer por foco infantil, tallaje, comodidad, canastilla, regalos y ceremonia.",
+        "originality": "Contenido original basado en criterios practicos y observables; no reproduce estructura ni textos de tiendas, directorios o listados.",
+        "accuracy": "No se inventan rankings, reseñas, precios, expertos, experiencia personal ni datos no verificados de comercios terceros.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda infantil, regalos, looks de temporada y contacto; fuentes externas primarias o institucionales dentro del limite solicitado.",
+        "multimedia": "Imagen destacada original optimizada; no se incluyo video porque no aportaba prueba o utilidad directa para esta intencion local."
       }
     }
   ]

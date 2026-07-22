@@ -5,6 +5,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/sitemap.xml": "sitemap.xml" });
 
   return {
+    pathPrefix: "/",
     dir: {
       input: "src",
       output: "dist"
