@@ -215,6 +215,59 @@
         "multimedia": "Imagen destacada original optimizada; no se incluyo video porque la SERP local no mostro un video que aportara prueba o utilidad directa a esta decision de compra."
       },
       "publishedAt": "2026-07-23T13:29:00Z"
+    },
+    {
+      "keyword": "Las 7 mejores zapatillas comodas de mujer para estar de pie todo el dia",
+      "priority": "Extra campaign",
+      "funnel": "BOFU",
+      "campaignType": "extra_one_off",
+      "status": "published",
+      "slug": "mejores-zapatillas-comodas-mujer-estar-de-pie",
+      "url": "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/",
+      "title": "Las 7 mejores zapatillas comodas de mujer para estar de pie todo el dia",
+      "selectedAt": "2026-07-23",
+      "publishedAt": "2026-07-23T17:10:50Z",
+      "pushedAt": "2026-07-23T17:10:50Z",
+      "commit": "f09f637",
+      "verification": {
+        "verifiedAt": "2026-07-23T17:10:50Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML",
+          "H1 matched the required topic",
+          "Canonical matched https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/",
+          "Featured image loaded as image/jpeg with 411033 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Production build passed; static generated HTML checks passed",
+          "Desktop and mobile layout risk reviewed through responsive CSS/static constraints; Playwright was unavailable in repo"
+        ]
+      },
+      "serp": {
+        "target": "Google ES / Espana",
+        "observations": [
+          "La SERP revisada el 23 de julio de 2026 para zapatillas comodas de mujer y estar de pie todo el dia mezcla comparativas de afiliacion/laboratorio, paginas de marca y guias sanitarias sobre ajuste del calzado.",
+          "RunRepeat ocupa resultados relevantes con una guia 2026 de zapatillas para caminar de mujer y modelos como New Balance 1080 v15, HOKA Bondi SR, ASICS GT 2000 y On Cloud 6.",
+          "Las paginas oficiales de marcas aportan datos actuales de familias concretas, pero no resuelven por si solas la decision editorial segun jornada, superficie, estilo y tipo de pie.",
+          "El gap editorial para Nubes 1982 es una guia en espanol de Espana, practica y de moda cotidiana, que evite declarar un ganador absoluto y ayude a elegir por uso real."
+        ],
+        "sources": [
+          "https://runrepeat.com/es/guias/las-mejores-zapatillas-para-caminar-de-mujer",
+          "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+          "https://www.skechers.es/mujer/comfort-technologies/relaxed-fit/",
+          "https://www.newbalance.es/es/pd/1080v15-mujer/W108099D-2E-08.html",
+          "https://lejanbrand.com/"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con una busqueda BOFU/informacional-comercial sobre zapatillas comodas de mujer para jornadas largas; diferenciada de los articulos locales existentes sobre tiendas, regalos y boutiques.",
+        "originality": "Contenido original con estructura por necesidad de uso, no por ranking absoluto; no reproduce textos ni metodologia de resultados afiliados.",
+        "accuracy": "No se inventan pruebas propias, precios finales, rankings universales, reseñas ni recomendaciones medicas. Lejan se presenta como una opcion barefoot editorialmente justificada y sus datos se verificaron solo en lejanbrand.com.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList schema, FAQPage solo para FAQs visibles, canonical y Open Graph.",
+        "links": "Incluye cuatro enlaces internos reales a moda mujer, complementos, looks de temporada y contacto; incluye fuentes externas de salud/calzado y el anchor obligatorio de Lejan exactamente una vez.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a esta decision de compra."
+      }
     }
   ]
 }
