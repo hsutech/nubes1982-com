@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-22",
+  "lastRun": "2026-07-23",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -161,6 +161,49 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda infantil, regalos, looks de temporada y contacto; fuentes externas primarias o institucionales dentro del limite solicitado.",
         "multimedia": "Imagen destacada original optimizada; no se incluyo video porque no aportaba prueba o utilidad directa para esta intencion local."
+      }
+    },
+    {
+      "keyword": "mejores regalos para mujer en Carmona",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "pushed_unverified",
+      "slug": "mejores-regalos-mujer-carmona",
+      "url": "https://nubes1982.com/blog/mejores-regalos-mujer-carmona/",
+      "title": "Mejores regalos para mujer en Carmona: 10 ideas con criterio",
+      "selectedAt": "2026-07-23",
+      "pushedAt": "2026-07-23T13:22:35Z",
+      "commit": "pending",
+      "verification": {
+        "status": "pending",
+        "reason": "Waiting for Cloudflare deployment verification after push"
+      },
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP exacta revisada el 23 de julio de 2026 muestra intencion comercial local: descubrir tiendas y elegir un regalo para mujer antes de visitar o contactar.",
+          "Los primeros resultados relevantes combinan directorios y listados de compras/regalos, fichas de comercios locales, paginas de turismo provincial y webs de tiendas con moda, calzado, complementos o regalos.",
+          "Tripadvisor y Petit Fute agrupan tiendas especializadas, moda y regalos, pero su utilidad principal es descubrimiento; no ofrecen una guia editorial profunda para decidir regalo segun talla, ocasion, cambios y uso real.",
+          "Tiendas Azimut, Calzados Pity, Carmin Moda y Complementos y otros resultados locales muestran oferta de moda, calzado, bolsos, complementos o regalos, pero la SERP deja un gap BOFU para comprar sin depender de opiniones, precios o rankings no verificables.",
+          "El articulo evita nombrar un ganador unico y estructura 10 ideas por margen de acierto: complementos, prendas versatiles, accesorios de evento, vales y packs pequenos."
+        ],
+        "sources": [
+          "https://www.turismosevilla.org/es/node/20884",
+          "https://www.petitfute.es/v38381-carmona/c1168-shopping-mode-cadeaux/",
+          "https://tiendasazimut.wixsite.com/website",
+          "https://www.tripadvisor.es/Attractions-g315913-Activities-c26-t144-Carmona_Province_of_Seville_Andalucia.html",
+          "https://paco-vago.vercel.app/",
+          "https://calzadospity.es/",
+          "https://portal-cec.consumo.gob.es/es/comunicacion/noticias/2026/recomendaciones-de-cec-espana-para-comprar-en-rebajas"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial local y BOFU; diferenciada de boutiques, moda mujer e infantil por foco en regalos para mujer, margen de acierto, cambios y ocasion.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce textos ni estructura de listados, directorios o tiendas.",
+        "accuracy": "No se inventan rankings, precios, reseñas, expertos, experiencia personal ni valoraciones de comercios terceros.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, complementos, regalos y contacto; fuentes externas consultadas y enlaces a resultados/instituciones relevantes.",
+        "multimedia": "Imagen destacada original optimizada; no se incluyo video porque la SERP local no mostro un video que aportara prueba o utilidad directa a esta decision de compra."
       }
     }
   ]
