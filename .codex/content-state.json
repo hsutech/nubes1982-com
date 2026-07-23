@@ -167,7 +167,7 @@
       "keyword": "mejores regalos para mujer en Carmona",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "pushed_unverified",
+      "status": "published",
       "slug": "mejores-regalos-mujer-carmona",
       "url": "https://nubes1982.com/blog/mejores-regalos-mujer-carmona/",
       "title": "Mejores regalos para mujer en Carmona: 10 ideas con criterio",
@@ -175,8 +175,17 @@
       "pushedAt": "2026-07-23T13:22:35Z",
       "commit": "09d7748",
       "verification": {
-        "status": "pending",
-        "reason": "Waiting for Cloudflare deployment verification after push"
+        "verifiedAt": "2026-07-23T13:29:00Z",
+        "httpStatus": 200,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML on verification attempt 2",
+          "H1 matched the planned title",
+          "Canonical matched https://nubes1982.com/blog/mejores-regalos-mujer-carmona/",
+          "Featured image loaded as image/jpeg with 367829 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Desktop and mobile layout risk reviewed through responsive CSS/static constraints; Playwright was unavailable in repo"
+        ]
       },
       "serp": {
         "target": "Google ES / Carmona y Sevilla",
@@ -204,7 +213,8 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, complementos, regalos y contacto; fuentes externas consultadas y enlaces a resultados/instituciones relevantes.",
         "multimedia": "Imagen destacada original optimizada; no se incluyo video porque la SERP local no mostro un video que aportara prueba o utilidad directa a esta decision de compra."
-      }
+      },
+      "publishedAt": "2026-07-23T13:29:00Z"
     }
   ]
 }
