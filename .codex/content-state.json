@@ -249,23 +249,25 @@
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a la decision local."
       },
       "publishedAt": "2026-07-24T15:25:00Z",
-      "pushedAt": "2026-07-24T15:23:00Z",
-      "commit": "f27163b",
+      "pushedAt": "2026-07-24T15:38:00Z",
+      "commit": "6a4c9e2",
       "verification": {
-        "verifiedAt": "2026-07-24T15:25:00Z",
+        "verifiedAt": "2026-07-24T15:40:00Z",
         "httpStatus": 200,
         "attempt": 2,
         "checks": [
-          "Custom-domain URL returned the expected article HTML on verification attempt 2",
+          "Custom-domain URL returned the expected article HTML after deployment",
           "H1 matched Mejores regalos para niños en Carmona: 10 ideas utiles",
           "Canonical matched https://nubes1982.com/blog/mejores-regalos-ninos-carmona/",
-          "Featured image loaded as image/jpeg with 350052 bytes",
+          "Featured image loaded as image/jpeg with 350052 bytes and natural width 1672",
           "Article appeared in blog index",
           "Article appeared in sitemap.xml",
-          "Production build passed; static SEO/schema/link checks passed",
-          "Local HTTP preview passed for page, image, blog index and sitemap; Playwright was unavailable in repo"
+          "Production build passed; static SEO/schema/link/cannibalization checks passed",
+          "Chrome CDP mobile render passed: innerWidth 390, scrollWidth 390, H1 within viewport",
+          "Chrome CDP desktop render passed without horizontal overflow risk"
         ]
-      }
+      },
+      "contentCommit": "f27163b"
     },
     {
       "keyword": "Las 7 mejores zapatillas comodas de mujer para estar de pie todo el dia",
