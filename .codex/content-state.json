@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-23",
+  "lastRun": "2026-07-24",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -215,6 +215,39 @@
         "multimedia": "Imagen destacada original optimizada; no se incluyo video porque la SERP local no mostro un video que aportara prueba o utilidad directa a esta decision de compra."
       },
       "publishedAt": "2026-07-23T13:29:00Z"
+    },
+    {
+      "keyword": "mejores regalos para niños en Carmona",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-regalos-ninos-carmona",
+      "url": "https://nubes1982.com/blog/mejores-regalos-ninos-carmona/",
+      "title": "Mejores regalos para niños en Carmona: 10 ideas utiles",
+      "selectedAt": "2026-07-24",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP exacta revisada el 24 de julio de 2026 muestra intencion comercial local: elegir regalos infantiles, ropa, canastilla o juguetes antes de visitar una tienda, llamar o comprar online.",
+          "Los primeros resultados relevantes combinan tiendas locales o ecommerce infantil, jugueterias con datos de contacto, directorios y listados genericos; hay poca cobertura editorial independiente para decidir por edad, seguridad, talla y cambios.",
+          "Patuco Carmona y Burbujas CM aportan informacion primaria sobre moda infantil, bebe, canastilla, puericultura, juguetes o ceremonia; Los Juguetes de los Peques de Manoli aporta una intencion especifica de jugueteria local.",
+          "El gap principal es una guia BOFU que no nombre un ganador sin datos verificables y que ayude a elegir por margen de acierto: edad, seguridad, utilidad, prendas cambiables, libros, kits creativos, vales y compra local."
+        ],
+        "sources": [
+          "https://www.patucocarmona.es/",
+          "https://burbujascm.com/conocenos/",
+          "https://www.losjuguetesdelospequesdemanoli.com/contacto",
+          "https://portal-cec.consumo.gob.es/es/comunicacion/noticias/2023/recomendaciones-de-cec-espana-para-hacer-frente-las-compras-navidenas"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial local y BOFU; diferenciada de ropa infantil por foco en regalos, juguetes, libros, vales, packs y seguridad por edad.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce textos ni estructura de tiendas, directorios o listados.",
+        "accuracy": "No se inventan rankings, precios, reseñas, expertos, experiencia personal ni valoraciones de comercios terceros.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda infantil, regalos, complementos y contacto; incluye fuentes externas primarias y una fuente oficial de consumo.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a la decision local."
+      }
     },
     {
       "keyword": "Las 7 mejores zapatillas comodas de mujer para estar de pie todo el dia",
