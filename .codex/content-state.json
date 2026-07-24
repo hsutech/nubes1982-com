@@ -220,7 +220,7 @@
       "keyword": "mejores regalos para niños en Carmona",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-regalos-ninos-carmona",
       "url": "https://nubes1982.com/blog/mejores-regalos-ninos-carmona/",
       "title": "Mejores regalos para niños en Carmona: 10 ideas utiles",
@@ -247,6 +247,24 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda infantil, regalos, complementos y contacto; incluye fuentes externas primarias y una fuente oficial de consumo.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a la decision local."
+      },
+      "publishedAt": "2026-07-24T15:25:00Z",
+      "pushedAt": "2026-07-24T15:23:00Z",
+      "commit": "f27163b",
+      "verification": {
+        "verifiedAt": "2026-07-24T15:25:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML on verification attempt 2",
+          "H1 matched Mejores regalos para niños en Carmona: 10 ideas utiles",
+          "Canonical matched https://nubes1982.com/blog/mejores-regalos-ninos-carmona/",
+          "Featured image loaded as image/jpeg with 350052 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Production build passed; static SEO/schema/link checks passed",
+          "Local HTTP preview passed for page, image, blog index and sitemap; Playwright was unavailable in repo"
+        ]
       }
     },
     {
