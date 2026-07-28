@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-24",
+  "lastRun": "2026-07-28",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -320,6 +320,41 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList schema, FAQPage solo para FAQs visibles, canonical y Open Graph.",
         "links": "Incluye cuatro enlaces internos reales a moda mujer, complementos, looks de temporada y contacto; incluye fuentes externas de salud/calzado y el anchor obligatorio de Lejan exactamente una vez.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a esta decision de compra."
+      }
+    },
+    {
+      "keyword": "mejores looks madre e hija",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-looks-madre-e-hija",
+      "url": "https://nubes1982.com/blog/mejores-looks-madre-e-hija/",
+      "title": "Mejores looks madre e hija: 10 ideas para ir coordinadas",
+      "selectedAt": "2026-07-28",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 28 de julio de 2026 mezcla guias de coordinacion familiar, ecommerce y retailers de ropa a juego, contenidos DIY recientes, listados editoriales y piezas de moda sobre madres e hijas famosas.",
+          "La intencion es comercial e inspiracional: elegir ideas de looks madre e hija, comparar si conviene vestir igual o coordinado y decidir prendas para diario, fotos, ferias o celebraciones.",
+          "Los resultados relevantes suelen ser visuales, con multimedia, galerias o producto, pero aportan menos decision BOFU sobre talla infantil, comodidad, tejidos, cambios, compra local y reutilizacion real.",
+          "El gap principal es una guia en español de España que proponga 10 rutas de compra sin inventar rankings, precios, reseñas ni experiencia personal, y que diferencie coordinacion de copia exacta."
+        ],
+        "sources": [
+          "https://www.vogue.es/moda/ninos/galerias/edito-madres-e-hijas-compras-navidenas/13286",
+          "https://www.trendencias.com/tendencias/looks-ninas-madres-marcas-que-te-ayudan-a-ir-a-juego-21-looks-ideales",
+          "https://www.katia.com/blog/es/coser-ropa-a-juego-madre-e-hijos/",
+          "https://www.patpat.com/es/blogs/family-adult/best-mom-daughter-matching-outfits",
+          "https://www.c-and-a.com/es/es/shop/twinning",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU/inspiracional sobre looks madre e hija; diferenciada de tiendas, regalos y ropa infantil por foco en coordinacion de conjuntos.",
+        "originality": "Contenido original basado en criterios practicos de color, tejido, ocasion, comodidad y compra; no reproduce textos ni estructura de ecommerce o medios.",
+        "accuracy": "No se inventan rankings, precios, reseñas, expertos, experiencia personal ni datos no verificados de comercios terceros.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, moda infantil, looks de temporada, complementos y contacto; cuatro enlaces externos en el cuerpo y fuentes adicionales registradas.",
+        "multimedia": "Imagen destacada original optimizada como JPEG; no se incluyo video porque la SERP no mostro uno que aportara utilidad material a la decision de compra."
       }
     }
   ]
