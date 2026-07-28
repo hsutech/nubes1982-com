@@ -326,11 +326,29 @@
       "keyword": "mejores looks madre e hija",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-looks-madre-e-hija",
       "url": "https://nubes1982.com/blog/mejores-looks-madre-e-hija/",
       "title": "Mejores looks madre e hija: 10 ideas para ir coordinadas",
       "selectedAt": "2026-07-28",
+      "publishedAt": "2026-07-28T13:28:34Z",
+      "pushedAt": "2026-07-28T13:28:34Z",
+      "commit": "2f5add9",
+      "verification": {
+        "verifiedAt": "2026-07-28T13:28:34Z",
+        "httpStatus": 200,
+        "attempt": 1,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML",
+          "H1 matched Mejores looks madre e hija: 10 ideas para ir coordinadas",
+          "Canonical matched https://nubes1982.com/blog/mejores-looks-madre-e-hija/",
+          "Featured image loaded as image/jpeg with 504488 bytes and natural width 1672",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Production build generated dist; Eleventy process required manual interrupt after output in this local environment",
+          "Local and public browser render checks passed at 1366px and 390px without horizontal overflow"
+        ]
+      },
       "serp": {
         "target": "Google ES / Carmona y Sevilla",
         "observations": [
