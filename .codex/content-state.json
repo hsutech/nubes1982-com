@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-28",
+  "lastRun": "2026-07-30",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -373,6 +373,41 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, moda infantil, looks de temporada, complementos y contacto; cuatro enlaces externos en el cuerpo y fuentes adicionales registradas.",
         "multimedia": "Imagen destacada original optimizada como JPEG; no se incluyo video porque la SERP no mostro uno que aportara utilidad material a la decision de compra."
+      }
+    },
+    {
+      "keyword": "mejores conjuntos familiares para eventos",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-conjuntos-familiares-eventos",
+      "url": "https://nubes1982.com/blog/mejores-conjuntos-familiares-eventos/",
+      "title": "Mejores conjuntos familiares para eventos: 10 ideas con criterio",
+      "selectedAt": "2026-07-30",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 30 de julio de 2026 mezcla ecommerce de ropa familiar a juego, guias de coordinacion, moda infantil y resultados locales de Carmona/Sevilla.",
+          "La intencion es comercial e inspiracional: elegir conjuntos familiares para comuniones, bautizos, bodas, cumpleanos, comidas o fotos antes de comprar o visitar una tienda.",
+          "Los resultados relevantes suelen ser visuales y de producto, con colecciones, FAQs y guias cortas o medias, pero aportan menos decision BOFU sobre protocolo, comodidad infantil, tallas, cambios, clima y reutilizacion.",
+          "El gap principal es una guia en espanol de Espana con 10 rutas de coordinacion familiar, sin inventar rankings, precios, resenas ni experiencia personal."
+        ],
+        "sources": [
+          "https://www.patpat.com/es/collections/matching-family-birthday-events-outfits",
+          "https://iqualonline.com/",
+          "https://www.dresslikemommy.com/es/blogs/news/the-complete-guide-to-family-matching-outfits",
+          "https://blog.cerdagroup.com/ropa-familiar-a-juego",
+          "https://www.patpat.com/es/blogs/patpat-events/how-to-coordinate-family-outfits-for-the-holidays",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU/inspiracional sobre conjuntos familiares para eventos; diferenciada de looks madre e hija por incluir familia completa, protocolo, hermanos, eventos y compra coordinada.",
+        "originality": "Contenido original basado en criterios practicos de ocasion, color, tejido, talla, comodidad infantil, clima y compra; no reproduce textos ni estructura de ecommerce o guias consultadas.",
+        "accuracy": "No se inventan rankings, precios, resenas, expertos, experiencia personal ni datos no verificados de comercios terceros.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, moda infantil, looks de temporada, complementos y contacto; incluye fuentes externas consultadas en el cuerpo y en estado.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque la SERP no mostro uno que aportara utilidad material a la decision de compra."
       }
     }
   ]
