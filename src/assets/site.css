@@ -131,8 +131,8 @@ tr:last-child td { border-bottom: 0; }
 }
 @media (max-width: 600px) {
   h1, .hero h1 { font-size: 43px; }
-  .article-header { padding-left: 18px; padding-right: 18px; overflow: hidden; }
-  .article-header h1 { width: 100%; max-width: calc(100vw - 36px); font-size: 34px; line-height: 1.08; overflow-wrap: anywhere; }
+  .article-header { padding-left: 18px; padding-right: 18px; overflow: visible; }
+  .article-header h1 { width: 100%; max-width: calc(100vw - 36px); font-size: 31px; line-height: 1.1; overflow-wrap: anywhere; word-break: break-word; hyphens: auto; }
   .article-header p:not(.eyebrow), .article-header .meta { font-size: 16px; line-height: 1.65; overflow-wrap: break-word; }
   h2, .text-intro h2, .about-dark h2, .prose h2, .wide-copy h2 { font-size: 34px; }
   .home-hero h1 { font-size: 66px; }
