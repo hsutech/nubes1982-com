@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-30",
+  "lastRun": "2026-07-31",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -427,6 +427,45 @@
           "Local source HTTP verification passed for article, canonical, image, blog index and sitemap",
           "Chrome headless public render passed at 390x844 mobile and 1366x900 desktop after mobile H1 wrapping fix"
         ]
+      }
+    },
+    {
+      "keyword": "mejores vestidos de mujer en Sevilla",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-vestidos-mujer-sevilla",
+      "url": "https://nubes1982.com/blog/mejores-vestidos-mujer-sevilla/",
+      "title": "Mejores vestidos de mujer en Sevilla: 10 opciones utiles",
+      "selectedAt": "2026-07-31",
+      "draftedAt": "2026-07-31T13:00:00Z",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 31 de julio de 2026 muestra intencion comercial BOFU: comparar vestidos de mujer, invitada, fiesta y tiendas en Sevilla antes de visitar, pedir cita o comprar online.",
+          "Los primeros resultados relevantes combinan tiendas y ecommerce de vestidos de invitada o fiesta, firmas nupciales con tienda en Sevilla, boutiques sevillanas, directorios de proveedores y paginas institucionales de compras.",
+          "Pronovias, Tuareg Modas, Luisa Modas, Cardie Moda, Avenenza, Bodas.net y Visita Sevilla aportan catalogo, direccion, cita, categorias, fotos o descubrimiento, pero poca metodologia editorial para decidir por ocasion, tejido, talla, calor, cambios y reutilizacion.",
+          "La canibalizacion con articulos previos es baja: este contenido se centra en vestidos de mujer en Sevilla, no en boutiques generales de Carmona, moda mujer local, regalos, ropa infantil ni conjuntos familiares.",
+          "El gap principal es una guia BOFU sin ganador artificial que ordene 10 opciones de vestido por uso real, protocolo, clima, tejido, complementos y condiciones de compra."
+        ],
+        "sources": [
+          "https://www.pronovias.com/es/tiendas/sevilla",
+          "https://www.tuaregmodas.com/",
+          "https://luisamodas.es/",
+          "https://www.bodas.net/bodas/novias/trajes-fiesta/sevilla",
+          "https://cardiemoda.com/",
+          "https://visitasevilla.es/de-compras-donde-comprar/",
+          "https://avenenza.com/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial BOFU de vestidos de mujer en Sevilla; estructura tipo listicle con respuesta directa, tabla, criterios de compra y FAQs.",
+        "originality": "Contenido original basado en criterios de decision; no reproduce textos, rankings, precios, reviews ni estructura exacta de competidores.",
+        "accuracy": "No se inventan datos, precios, opiniones, expertos, valoraciones ni experiencia personal; las condiciones de desistimiento se apoyan en fuente institucional.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, complementos, moda infantil y contacto; externos a fuentes SERP relevantes e institucionales.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo YouTube porque no aparecio un resultado localizado que aportara utilidad material a esta decision."
       }
     }
   ]
