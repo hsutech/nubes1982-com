@@ -433,7 +433,7 @@
       "keyword": "mejores vestidos de mujer en Sevilla",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-vestidos-mujer-sevilla",
       "url": "https://nubes1982.com/blog/mejores-vestidos-mujer-sevilla/",
       "title": "Mejores vestidos de mujer en Sevilla: 10 opciones utiles",
@@ -466,6 +466,23 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, complementos, moda infantil y contacto; externos a fuentes SERP relevantes e institucionales.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo YouTube porque no aparecio un resultado localizado que aportara utilidad material a esta decision."
+      },
+      "publishedAt": "2026-07-31T13:35:00Z",
+      "pushedAt": "2026-07-31T13:29:00Z",
+      "commit": "924291b",
+      "verification": {
+        "verifiedAt": "2026-07-31T13:35:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML after deployment propagation",
+          "H1 matched Mejores vestidos de mujer en Sevilla: 10 opciones utiles",
+          "Canonical matched https://nubes1982.com/blog/mejores-vestidos-mujer-sevilla/",
+          "Featured image loaded as image/jpeg with 475086 bytes and natural width 1672",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Chrome headless public render passed at narrow 500x844 and desktop 1366x900; document scrollWidth was 485 at narrow viewport and image loaded"
+        ]
       }
     }
   ]
