@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-07-31",
+  "lastRun": "2026-08-02",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -483,6 +483,42 @@
           "Article appeared in sitemap.xml",
           "Chrome headless public render passed at narrow 500x844 and desktop 1366x900; document scrollWidth was 485 at narrow viewport and image loaded"
         ]
+      }
+    },
+    {
+      "keyword": "tiendas de moda en Carmona opiniones",
+      "priority": "Alta",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "tiendas-moda-carmona-opiniones",
+      "url": "https://nubes1982.com/blog/tiendas-moda-carmona-opiniones/",
+      "title": "Tiendas de moda en Carmona opiniones: como elegir con criterio",
+      "selectedAt": "2026-08-02",
+      "draftedAt": "2026-08-02T13:45:00Z",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 2 de agosto de 2026 muestra intencion BOFU local: usuarios que ya quieren comparar tiendas de moda en Carmona y usan opiniones, valoraciones o directorios antes de visitar o contactar.",
+          "Los primeros resultados relevantes combinan directorios como Tripadvisor y Paginas Amarillas, fichas de comercios concretos, resultados propios de nubes1982.com y paginas agregadoras con valoraciones.",
+          "Tripadvisor aporta listados y fichas con opiniones, fotos, horarios y criterios de ordenacion; Paginas Amarillas aporta descubrimiento de negocios por categoria, direccion y telefono.",
+          "El gap principal es una guia editorial que explique como interpretar opiniones sin inventar rankings, reseñas, precios ni experiencia personal: detalle, fecha, continuidad, especialidad, cambios, actividad del comercio y comprobacion directa.",
+          "La canibalizacion con articulos previos es controlada: este contenido no repite 'mejores tiendas' ni 'moda mujer', sino que se centra en lectura critica de opiniones para decidir una visita o contacto."
+        ],
+        "sources": [
+          "https://www.tripadvisor.es/Attractions-g315913-Activities-c26-Carmona_Province_of_Seville_Andalucia.html",
+          "https://www.tripadvisor.es/Attraction_Review-g315913-d23728395-Reviews-Azimut_Tiendas-Carmona_Province_of_Seville_Andalucia.html",
+          "https://nicanora.es/ubicacion/andalucia/sevilla/carmona/",
+          "https://www.paginasamarillas.es/a/tiendas-de-moda/sevilla/carmona/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU local de opiniones; enfoque de evaluacion critica y decision de visita/contacto.",
+        "originality": "Contenido original basado en metodo de lectura de reseñas y señales practicas, sin reproducir textos ni rankings de competidores.",
+        "accuracy": "No se inventan reseñas, puntuaciones, precios, expertos, experiencia personal ni valoraciones de comercios terceros; las condiciones de desistimiento online se apoyan en fuente institucional.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, moda infantil, complementos, regalos y contacto; fuentes externas relevantes e institucionales.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo YouTube porque no aparecio un contenido localizado que aportara utilidad material para esta intencion."
       }
     }
   ]
