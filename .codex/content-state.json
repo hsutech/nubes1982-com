@@ -489,12 +489,15 @@
       "keyword": "tiendas de moda en Carmona opiniones",
       "priority": "Alta",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "tiendas-moda-carmona-opiniones",
       "url": "https://nubes1982.com/blog/tiendas-moda-carmona-opiniones/",
       "title": "Tiendas de moda en Carmona opiniones: como elegir con criterio",
       "selectedAt": "2026-08-02",
-      "draftedAt": "2026-08-02T13:45:00Z",
+      "draftedAt": "2026-08-02T13:20:00Z",
+      "publishedAt": "2026-08-02T13:28:49Z",
+      "pushedAt": "2026-08-02T13:25:00Z",
+      "commit": "43fbb0d",
       "serp": {
         "target": "Google ES / Carmona y Sevilla",
         "observations": [
@@ -519,6 +522,21 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, moda infantil, complementos, regalos y contacto; fuentes externas relevantes e institucionales.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo YouTube porque no aparecio un contenido localizado que aportara utilidad material para esta intencion."
+      },
+      "verification": {
+        "verifiedAt": "2026-08-02T13:28:49Z",
+        "httpStatus": 200,
+        "attempt": 1,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML after deployment propagation",
+          "H1 matched Tiendas de moda en Carmona opiniones: como elegir con criterio",
+          "Canonical matched https://nubes1982.com/blog/tiendas-moda-carmona-opiniones/",
+          "Featured image loaded as image/jpeg with natural width 1600",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Production build passed in clean clone; static SEO/schema/link/cannibalization checks passed",
+          "Local and public Chrome headless render passed at 390x844 mobile and 1366x900 desktop without horizontal overflow"
+        ]
       }
     }
   ]
