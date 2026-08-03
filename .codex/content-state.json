@@ -553,7 +553,7 @@
       "keyword": "dónde comprar vestidos en Carmona",
       "priority": "Media",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "donde-comprar-vestidos-carmona",
       "url": "https://nubes1982.com/blog/donde-comprar-vestidos-carmona/",
       "title": "Donde comprar vestidos en Carmona: 7 opciones con criterio",
@@ -584,6 +584,23 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, moda infantil, complementos, contacto y guia de vestidos en Sevilla; fuentes externas locales e institucionales.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aparecio un resultado localizado con valor material para esta intencion."
+      },
+      "publishedAt": "2026-08-03T14:04:00Z",
+      "pushedAt": "2026-08-03T14:01:00Z",
+      "commit": "5588844",
+      "verification": {
+        "verifiedAt": "2026-08-03T14:05:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML after deployment",
+          "H1 matched Donde comprar vestidos en Carmona: 7 opciones con criterio",
+          "Canonical matched https://nubes1982.com/blog/donde-comprar-vestidos-carmona/",
+          "Featured image loaded as image/jpeg with 284903 bytes and 1672x941 dimensions",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
+        ]
       }
     }
   ]
