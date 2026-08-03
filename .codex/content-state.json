@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-02",
+  "lastRun": "2026-08-03",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -537,6 +537,53 @@
           "Production build passed in clean clone; static SEO/schema/link/cannibalization checks passed",
           "Local and public Chrome headless render passed at 390x844 mobile and 1366x900 desktop without horizontal overflow"
         ]
+      }
+    },
+    {
+      "keyword": "dónde comprar ropa infantil en Carmona",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "skipped",
+      "slug": "donde-comprar-ropa-infantil-carmona",
+      "selectedAt": "2026-08-03",
+      "skippedAt": "2026-08-03T13:20:00Z",
+      "reason": "Canibalizacion: la intencion principal duplica el articulo ya publicado sobre mejores tiendas de ropa infantil en Carmona, que ya cubre donde comprar ropa infantil local, criterios de tienda, tallas, cambios y compra fisica/online."
+    },
+    {
+      "keyword": "dónde comprar vestidos en Carmona",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "donde-comprar-vestidos-carmona",
+      "url": "https://nubes1982.com/blog/donde-comprar-vestidos-carmona/",
+      "title": "Donde comprar vestidos en Carmona: 7 opciones con criterio",
+      "selectedAt": "2026-08-03",
+      "draftedAt": "2026-08-03T13:20:00Z",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 3 de agosto de 2026 muestra intencion comercial BOFU local: encontrar tiendas, confirmar disponibilidad y decidir si visitar, llamar o comprar online.",
+          "Predominan directorios, fichas de negocios y paginas de categoria; hay poca cobertura editorial larga con tabla de contenidos, comparativa y FAQs orientadas a ocasion, talla, tejido y cambios.",
+          "Paginas Amarillas y Cylex listan tiendas de moda y ropa en Carmona con direcciones, telefonos y categorias, utiles para descubrimiento pero insuficientes para decidir por tipo de vestido.",
+          "Fichas especificas como El Vestidor de Noelia y categorias como vestidos de flamenca de Patuco cubren necesidades concretas, pero no ordenan la decision entre vestido de diario, invitada, comunion, infantil, complementos y compra online.",
+          "El articulo evita ranking de tiendas y opiniones no verificadas; propone un metodo BOFU para seleccionar canal y preguntar por talla, medidas, largo, tejido, disponibilidad y cambios."
+        ],
+        "sources": [
+          "https://www.paginasamarillas.es/a/tiendas-de-moda/sevilla/carmona/",
+          "https://www.cylex.es/carmona/tiendas%2Bde%2Bropa.html",
+          "https://www.cylex.es/carmona/el-vestidor-de-noelia-14537180.html",
+          "https://www.patucocarmona.es/categoria-producto/flamenca/vestidos-de-flamenca/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://nubes1982.com/moda-mujer/"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda local BOFU donde comprar vestidos; diferenciada del articulo de mejores vestidos de mujer en Sevilla por foco Carmona, tienda/canal y decision previa.",
+        "originality": "Contenido original basado en metodo de compra y criterios observables; no reproduce textos ni estructura de directorios o tiendas.",
+        "accuracy": "No se inventan rankings, opiniones, precios, expertos, experiencia personal ni disponibilidad de comercios terceros.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, moda infantil, complementos, contacto y guia de vestidos en Sevilla; fuentes externas locales e institucionales.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aparecio un resultado localizado con valor material para esta intencion."
       }
     }
   ]
