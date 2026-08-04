@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-03",
+  "lastRun": "2026-08-04",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -601,6 +601,46 @@
           "Article appeared in sitemap.xml",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
+      }
+    },
+    {
+      "keyword": "mejores vestidos para comuniones",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-vestidos-para-comuniones",
+      "url": "https://nubes1982.com/blog/mejores-vestidos-para-comuniones/",
+      "title": "Mejores vestidos para comuniones: 10 ideas elegantes y comodas",
+      "selectedAt": "2026-08-04",
+      "draftedAt": "2026-08-04T13:20:00Z",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 4 de agosto de 2026 muestra intencion comercial BOFU: elegir vestido o alternativa para una comunion, comparar estilos y decidir compra para un evento concreto.",
+          "Los primeros resultados relevantes combinan guias editoriales de moda, blogs de tiendas y categorias ecommerce de vestidos de invitada; predominan paginas con inspiracion visual, consejos de protocolo y producto.",
+          "Primeriti, Glamour España, Bruna, Capriche, Mango, La Vanguardia y categorias de invitada cubren ideas de look, largos, tonos suaves, tejidos ligeros, vestidos midi, conjuntos y errores comunes.",
+          "El gap principal es una guia de compra que ordene la decision por papel en el evento, horario, tejido, talla, comodidad, complementos, cambios y reutilizacion, sin inventar rankings, precios ni opiniones.",
+          "La canibalizacion es baja: este contenido se centra en comuniones como ocasion concreta; no repite la guia local de donde comprar vestidos en Carmona ni la guia amplia de vestidos de mujer en Sevilla."
+        ],
+        "sources": [
+          "https://www.primeriti.es/blog/moda/como-vestir-para-una-comunion/",
+          "https://capriche.es/blogs/vestidos/guia-de-invitada-de-comunion-que-ponerse-para-ser-la-mejor-vestida",
+          "https://www.calendula.shop/blog/protocolo-vestimenta-comunion-invitados/",
+          "https://www.lavanguardia.com/comprar/moda-belleza/20260502/11526457/que-vestidos-invitada-son-mas-elegantes-bodas-comuniones-2026.html",
+          "https://www.bruna.es/blogs/archivo/como-elegir-vestido-perfecto-comunion",
+          "https://www.glamour.es/articulos/protocolo-invitadas-boda-bautizo-comunion",
+          "https://www.bruna.es/collections/vestidos-invitada-comunion",
+          "https://shop.mango.com/es/es/discover/tendencias/mujer/como-vestir-para-ser-la-invitada-perfecta-a-una-comunion-los-looks-que-triunfan-esta-temporada_blt1d8daabd44161ae5",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial BOFU de vestidos para comuniones; estructura listicle con respuesta directa, tabla, criterios de compra y FAQs.",
+        "originality": "Contenido original basado en criterios de decision; no reproduce textos, rankings, precios, reviews ni estructura exacta de competidores.",
+        "accuracy": "No se inventan datos, precios, opiniones, expertos, valoraciones ni experiencia personal; las condiciones de desistimiento online se apoyan en fuente institucional.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, complementos, looks de temporada, contacto y conjuntos familiares; externos a fuentes SERP relevantes e institucionales.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo YouTube porque no aparecio un resultado que aportara utilidad material superior a las fuentes escritas consultadas."
       }
     }
   ]

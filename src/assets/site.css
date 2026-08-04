@@ -130,10 +130,11 @@ tr:last-child td { border-bottom: 0; }
   .side-note, .hours { position: static; }
 }
 @media (max-width: 600px) {
+  html, body { max-width: 100%; overflow-x: hidden; }
   h1, .hero h1 { font-size: 43px; }
-  .article-header { padding-left: 18px; padding-right: 18px; overflow: visible; }
-  .article-header h1 { width: 100%; max-width: min(100%, calc(100vw - 44px)); font-size: 24px; line-height: 1.16; overflow-wrap: anywhere; word-break: break-word; hyphens: auto; text-wrap: balance; }
-  .article-header p:not(.eyebrow), .article-header .meta { font-size: 16px; line-height: 1.65; overflow-wrap: break-word; }
+  .article-header { max-width: 100%; padding-left: 18px; padding-right: 18px; overflow: visible; }
+  .article-header h1 { width: min(286px, 100%) !important; max-width: min(286px, calc(100vw - 72px)) !important; font-size: 22px; line-height: 1.18; overflow-wrap: anywhere; word-break: break-word; hyphens: auto; text-wrap: balance; }
+  .article-header p:not(.eyebrow), .article-header .meta { width: min(286px, 100%) !important; max-width: min(286px, calc(100vw - 72px)) !important; font-size: 16px; line-height: 1.65; overflow-wrap: anywhere; word-break: break-word; }
   h2, .text-intro h2, .about-dark h2, .prose h2, .wide-copy h2 { font-size: 34px; }
   .home-hero h1 { font-size: 66px; }
   .header-inner { width: 100%; overflow: hidden; }
