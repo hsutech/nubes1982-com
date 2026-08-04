@@ -607,7 +607,7 @@
       "keyword": "mejores vestidos para comuniones",
       "priority": "Media",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-vestidos-para-comuniones",
       "url": "https://nubes1982.com/blog/mejores-vestidos-para-comuniones/",
       "title": "Mejores vestidos para comuniones: 10 ideas elegantes y comodas",
@@ -641,6 +641,23 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, complementos, looks de temporada, contacto y conjuntos familiares; externos a fuentes SERP relevantes e institucionales.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo YouTube porque no aparecio un resultado que aportara utilidad material superior a las fuentes escritas consultadas."
+      },
+      "publishedAt": "2026-08-04T14:02:00Z",
+      "pushedAt": "2026-08-04T13:59:00Z",
+      "commit": "b42d23a",
+      "verification": {
+        "verifiedAt": "2026-08-04T14:02:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML after deployment propagation",
+          "H1 matched Mejores vestidos para comuniones: 10 ideas elegantes y comodas",
+          "Canonical matched https://nubes1982.com/blog/mejores-vestidos-para-comuniones/",
+          "Featured image loaded as image/jpeg with 314658 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank without header text clipping"
+        ]
       }
     }
   ]
