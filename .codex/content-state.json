@@ -664,7 +664,7 @@
       "keyword": "campaña Magnific: catalogo visual de temporada con moodboards e imagenes generadas por IA",
       "priority": "Campaña",
       "funnel": "Informacional/BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "catalogo-visual-temporada-moodboards-imagenes-generadas-ia",
       "url": "https://nubes1982.com/blog/catalogo-visual-temporada-moodboards-imagenes-generadas-ia/",
       "title": "Cómo diseñar un catálogo visual de temporada con moodboards e imágenes generadas por IA",
@@ -705,6 +705,24 @@
         "alt": "Moodboard de temporada con paletas, bocetos, texturas y referencias visuales conceptuales sobre una mesa de trabajo",
         "generator": "imagegen built-in tool",
         "promptSummary": "Editorial still life of a seasonal fashion moodboard with palettes, fabric swatches and sketches, no real sellable garments."
+      },
+      "publishedAt": "2026-08-06T13:32:00Z",
+      "pushedAt": "2026-08-06T13:29:00Z",
+      "commit": "d010b76",
+      "verification": {
+        "verifiedAt": "2026-08-06T13:32:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned HTTP 200 with expected article HTML",
+          "H1 matched Cómo diseñar un catálogo visual de temporada con moodboards e imágenes generadas por IA",
+          "Canonical matched https://nubes1982.com/blog/catalogo-visual-temporada-moodboards-imagenes-generadas-ia/",
+          "Featured image loaded as image/jpeg with 363104 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Exactly one Magnific backlink was present with anchor generador de imágenes con inteligencia artificial and destination https://www.magnific.com/ai/image-generator",
+          "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
+        ]
       }
     }
   ]
