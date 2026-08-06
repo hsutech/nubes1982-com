@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-04",
+  "lastRun": "2026-08-06",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -658,6 +658,53 @@
           "Article appeared in sitemap.xml",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank without header text clipping"
         ]
+      }
+    },
+    {
+      "keyword": "campaña Magnific: catalogo visual de temporada con moodboards e imagenes generadas por IA",
+      "priority": "Campaña",
+      "funnel": "Informacional/BOFU",
+      "status": "drafted",
+      "slug": "catalogo-visual-temporada-moodboards-imagenes-generadas-ia",
+      "url": "https://nubes1982.com/blog/catalogo-visual-temporada-moodboards-imagenes-generadas-ia/",
+      "title": "Cómo diseñar un catálogo visual de temporada con moodboards e imágenes generadas por IA",
+      "selectedAt": "2026-08-06",
+      "campaign": {
+        "host": "nubes1982.com",
+        "requiredAnchor": "generador de imágenes con inteligencia artificial",
+        "exactDestination": "https://www.magnific.com/ai/image-generator",
+        "reason": "Campaña guest-post con prioridad sobre la cola rutinaria del 2026-08-06."
+      },
+      "serp": {
+        "target": "Google ES / moda, catalogos visuales, moodboards e IA generativa",
+        "observations": [
+          "La SERP combina guias educativas de moodboards de moda, recursos de lookbook digital, herramientas de IA y documentacion ecommerce sobre fotografia de producto.",
+          "La intencion es informacional con utilidad comercial: entender como planificar direccion visual de temporada antes de producir o publicar catalogos.",
+          "Los resultados relevantes suelen cubrir inspiracion, herramientas o fotografia, pero no siempre separan imagen conceptual generada por IA y prueba visual de producto real.",
+          "El gap principal es una guia practica para boutiques y equipos editoriales que explique metodo, prompts, limites de claims y uso responsable de imagenes sinteticas."
+        ],
+        "sources": [
+          "https://www.adobe.com/es/products/firefly/features/moodboard/examples/fashion.html",
+          "https://www.shutterstock.com/es/blog/como-crear-moodboard-de-moda-mejorar-estilo",
+          "https://www.publitas.com/blog/how-to-create-a-fashion-lookbook/",
+          "https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion",
+          "https://help.shopify.com/en/manual/products/product-media/product-photography",
+          "https://www.magnific.com/ai/image-generator"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda informacional/comercial sobre moodboards, lookbooks de temporada e IA visual aplicada a moda.",
+        "originality": "Contenido original con metodo propio y foco en distinguir concepto visual de producto real.",
+        "accuracy": "No se inventan precios, pruebas, funcionalidades volatiles, resultados ni experiencia personal; Magnific se menciona de forma neutral y verificada el mismo dia.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla, Article schema, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales y fuentes externas fiables; contiene un unico enlace a Magnific con el anchor requerido.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se usa como evidencia de producto real."
+      },
+      "image": {
+        "path": "/assets/catalogo-visual-temporada-moodboards-ia.jpg",
+        "alt": "Moodboard de temporada con paletas, bocetos, texturas y referencias visuales conceptuales sobre una mesa de trabajo",
+        "generator": "imagegen built-in tool",
+        "promptSummary": "Editorial still life of a seasonal fashion moodboard with palettes, fabric swatches and sketches, no real sellable garments."
       }
     }
   ]
