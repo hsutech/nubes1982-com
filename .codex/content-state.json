@@ -729,7 +729,7 @@
       "keyword": "mejores complementos para invitada de boda",
       "priority": "Extension BOFU",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-complementos-invitada-boda",
       "url": "https://nubes1982.com/blog/mejores-complementos-invitada-boda/",
       "title": "Mejores complementos para invitada de boda: 10 ideas utiles",
@@ -766,6 +766,24 @@
         "alt": "Bolso de fiesta coral, pendientes dorados, sandalias verdes y chal claro preparados para un look de invitada de boda",
         "generator": "imagegen built-in tool",
         "promptSummary": "Editorial still life of wedding guest accessories in a boutique, no real brands, logos or product claims."
+      },
+      "publishedAt": "2026-08-07T13:29:00Z",
+      "pushedAt": "2026-08-07T13:27:00Z",
+      "commit": "bd5fff8",
+      "verification": {
+        "verifiedAt": "2026-08-07T13:29:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned HTTP 200 with expected article HTML",
+          "H1 matched Mejores complementos para invitada de boda: 10 ideas utiles",
+          "Canonical matched https://nubes1982.com/blog/mejores-complementos-invitada-boda/",
+          "Featured image loaded as image/jpeg with 309932 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Production build passed; static SEO/schema/link/cannibalization checks passed",
+          "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
+        ]
       }
     }
   ]
