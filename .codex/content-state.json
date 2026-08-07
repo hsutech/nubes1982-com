@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-06",
+  "lastRun": "2026-08-07",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -723,6 +723,49 @@
           "Exactly one Magnific backlink was present with anchor generador de imágenes con inteligencia artificial and destination https://www.magnific.com/ai/image-generator",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
+      }
+    },
+    {
+      "keyword": "mejores complementos para invitada de boda",
+      "priority": "Extension BOFU",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-complementos-invitada-boda",
+      "url": "https://nubes1982.com/blog/mejores-complementos-invitada-boda/",
+      "title": "Mejores complementos para invitada de boda: 10 ideas utiles",
+      "selectedAt": "2026-08-07",
+      "draftedAt": "2026-08-07T13:20:00Z",
+      "selectionNote": "La cola conocida de content-state no tenia keywords pendientes; el Excel local no fue legible por bloqueo de placeholder/macOS tras intento controlado. Se eligio una extension BOFU no canibalizante centrada en complementos, distinta de vestidos y comuniones.",
+      "serp": {
+        "target": "Google ES / Carmona, Sevilla y España",
+        "observations": [
+          "La SERP revisada el 7 de agosto de 2026 muestra intencion BOFU: cerrar un look de invitada de boda despues de elegir vestido o conjunto.",
+          "Los primeros resultados relevantes combinan guias editoriales, medios de moda, blogs de tiendas y articulos por categoria: bolso, zapatos, joyas, tocados, capas y tendencias.",
+          "Bodas.net cubre categorias amplias de complementos, Glamour estructura bolsos por tipo de boda, Vogue trata tendencias de bolsos joya 2026 e Inaianei organiza joyas por escote, color y peinado.",
+          "El gap principal es una guia de compra que combine inspiracion con capacidad real del bolso, comodidad del zapato, horario, protocolo, reutilizacion y condiciones de cambio.",
+          "La canibalizacion es baja: el articulo se centra en accesorios de invitada; enlaza y complementa las guias de vestidos sin repetir su intencion principal."
+        ],
+        "sources": [
+          "https://www.bodas.net/articulos/complementos-invitada-boda--c8204",
+          "https://www.glamour.es/articulos/mejores-bolsos-invitada-segun-tipo-boda",
+          "https://www.vogue.es/galerias/bolsos-invitadas-joya-bodas-tendencias-2026",
+          "https://inaianei.com/blogs/noticias/joyas-vestido-invitada-boda-segun-escote-color",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda comercial BOFU sobre complementos de invitada; estructura listicle con respuesta directa, TOC, tabla, criterios y FAQs.",
+        "originality": "Contenido original basado en criterios practicos de decision; no reproduce textos, rankings, precios, reviews ni estructura exacta de competidores.",
+        "accuracy": "No se inventan datos, precios, opiniones, expertos, valoraciones ni experiencia personal; las condiciones de desistimiento online se apoyan en fuente institucional.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales a complementos, looks de temporada, vestidos de comunion, vestidos de mujer en Sevilla, moda mujer y contacto; externos a fuentes SERP relevantes e institucionales.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; se declara como composicion editorial, no evidencia de producto real en venta."
+      },
+      "image": {
+        "path": "/assets/mejores-complementos-invitada-boda.jpg",
+        "alt": "Bolso de fiesta coral, pendientes dorados, sandalias verdes y chal claro preparados para un look de invitada de boda",
+        "generator": "imagegen built-in tool",
+        "promptSummary": "Editorial still life of wedding guest accessories in a boutique, no real brands, logos or product claims."
       }
     }
   ]
