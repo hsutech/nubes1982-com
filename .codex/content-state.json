@@ -790,7 +790,7 @@
       "keyword": "mejores looks para bautizos",
       "priority": "Media",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-looks-para-bautizos",
       "url": "https://nubes1982.com/blog/mejores-looks-para-bautizos/",
       "title": "Mejores looks para bautizos: 10 ideas elegantes y comodas",
@@ -821,6 +821,23 @@
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
         "links": "Incluye enlaces internos reales a moda mujer, complementos, moda infantil, looks de temporada, contacto y articulos relacionados; fuentes externas consultadas y una fuente oficial de consumo.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque la SERP no mostro un video con utilidad material superior a las fuentes escritas."
+      },
+      "publishedAt": "2026-08-09T13:29:00Z",
+      "pushedAt": "2026-08-09T13:27:00Z",
+      "commit": "85ab1f9",
+      "verification": {
+        "verifiedAt": "2026-08-09T13:29:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned the expected article HTML after deployment",
+          "H1 matched Mejores looks para bautizos: 10 ideas elegantes y comodas",
+          "Canonical matched https://nubes1982.com/blog/mejores-looks-para-bautizos/",
+          "Featured image loaded as image/jpeg",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
+        ]
       }
     }
   ]
