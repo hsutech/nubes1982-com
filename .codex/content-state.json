@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-07",
+  "lastRun": "2026-08-09",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -784,6 +784,43 @@
           "Production build passed; static SEO/schema/link/cannibalization checks passed",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
+      }
+    },
+    {
+      "keyword": "mejores looks para bautizos",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-looks-para-bautizos",
+      "url": "https://nubes1982.com/blog/mejores-looks-para-bautizos/",
+      "title": "Mejores looks para bautizos: 10 ideas elegantes y comodas",
+      "selectedAt": "2026-08-09",
+      "serp": {
+        "target": "Google ES / Carmona y Sevilla",
+        "observations": [
+          "La SERP revisada el 9 de agosto de 2026 muestra intencion comercial-inspiracional: usuarias que buscan ideas concretas para vestir en un bautizo antes de comprar o cerrar el look.",
+          "Los resultados relevantes combinan guias de tiendas especializadas, medios de moda, marcas y articulos de consejos; predominan piezas visuales con vestidos midi, trajes claros, tonos pastel y complementos discretos.",
+          "Paulino Sancho, Diario Femenino, Hola Fashion, Polin et Moi y Mango cubren protocolo, colores, prendas y ejemplos, pero no siempre conectan esas ideas con tallaje, cambios, reutilizacion, calor local y compra en tienda fisica.",
+          "El gap principal es una guia BOFU con 10 looks y metodo de compra que diferencie bautizo de boda/comunion, sin inventar rankings, precios, reseñas ni experiencia personal."
+        ],
+        "sources": [
+          "https://www.paulinosancho.com/blog/como-vestir-bautizo-invitada/",
+          "https://www.diariofemenino.com/articulos/moda/vestidos/6-utiles-consejos-para-vestirse-en-un-bautizo-como-invitada/",
+          "https://www.hola.com/fashion/tendencias/20250414826223/invitadas-espanolas-looks-virales-bautizos-comuniones/",
+          "https://www.polinetmoi.com/es/blog/97_como-vestir-para-un-bautizo.html",
+          "https://shop.mango.com/us/en/discover/trends/women/what-to-wear-to-a-baptism-the-definitive-guide-for-your-guest-outfits_blt5d59090be6e38844",
+          "https://ezelma.com/look-bautizo-invitada-como-acertar/",
+          "https://theamm.org/articles/2773-que-ponerse-y-que-no-ponerse-para-un-bautizo",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU de inspiracion y compra para bautizo; diferenciada del articulo de comuniones por foco en ceremonia familiar de dia, madre/madrina/invitada, modestia y comodidad.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce textos ni estructura de competidores.",
+        "accuracy": "No se inventan rankings, precios, reseñas, expertos, experiencia personal ni datos de tiendas terceras.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical, Open Graph e imagen destacada.",
+        "links": "Incluye enlaces internos reales a moda mujer, complementos, moda infantil, looks de temporada, contacto y articulos relacionados; fuentes externas consultadas y una fuente oficial de consumo.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque la SERP no mostro un video con utilidad material superior a las fuentes escritas."
       }
     }
   ]
