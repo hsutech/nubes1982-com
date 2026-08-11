@@ -839,6 +839,50 @@
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
       }
+    },
+    {
+      "keyword": "mejores conjuntos cómodos para niños",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-conjuntos-comodos-ninos",
+      "url": "https://nubes1982.com/blog/mejores-conjuntos-comodos-ninos/",
+      "title": "Mejores conjuntos comodos para niños: 10 ideas utiles",
+      "selectedAt": "2026-08-11",
+      "draftedAt": "2026-08-11T13:30:00Z",
+      "serp": {
+        "target": "Google ES / Carmona, Sevilla y España",
+        "observations": [
+          "La SERP revisada el 11 de agosto de 2026 muestra intencion BOFU mixta: familias que quieren comprar conjuntos infantiles y tambien criterios de comodidad, tejido, talla, capas y lavado.",
+          "Los resultados relevantes combinan categorias ecommerce de conjuntos, tiendas de moda infantil española, guias de ropa comoda, contenidos de temporada y resultados locales de Carmona/Sevilla.",
+          "C&A cubre categoria de conjuntos infantiles para diario; PequeAprendices aporta criterios de movimiento y autonomia; AEMPS ayuda a tratar ropa y proteccion solar sin claims inventados; CEC-España cubre derechos de compra y cambios.",
+          "El gap principal es una guia que convierta la inspiracion de catalogo en decision practica por uso real: colegio, parque, viaje, bebe, celebracion informal, tallaje, capas, lavado y reutilizacion.",
+          "La canibalizacion con 'mejores tiendas de ropa infantil en Carmona' es baja: aquel articulo compara tiendas y canales; este compara tipos de conjuntos y criterios de producto."
+        ],
+        "sources": [
+          "https://www.c-and-a.com/es/es/shop/tendencia-conjuntos-de-ropa-infantil",
+          "https://pequeaprendices.com/ropa-comoda-ninos/",
+          "https://www.aemps.gob.es/informa/campanas-institucionales/consejos-para-una-adecuada-proteccion-solar-en-ninos/",
+          "https://portal-cec.consumo.gob.es/es/comunicacion/noticias/2026/recomendaciones-de-cec-espana-para-comprar-en-rebajas",
+          "https://www.patucocarmona.es/",
+          "https://burbujascm.com/conocenos/",
+          "https://decopeques.com/moda-infantil-para-verano-claves-para-vestir-a-ninos-y-ninas-con-comodidad-frescura-y-estilo/"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU de conjuntos infantiles comodos; respuesta directa, TOC, tabla comparativa, 10 ideas y FAQs.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce textos, rankings, precios, reviews ni estructura exacta de competidores.",
+        "accuracy": "No se inventan precios, reseñas, expertos, experiencia personal ni claims medicos; proteccion solar y cambios se apoyan en fuentes institucionales.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales a moda infantil, tiendas infantiles en Carmona, regalos infantiles y contacto; externos a C&A, PequeAprendices, AEMPS y CEC-España.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; se usa como composicion editorial, no evidencia de producto real en venta."
+      },
+      "image": {
+        "path": "/assets/mejores-conjuntos-comodos-ninos.jpg",
+        "alt": "Conjuntos infantiles comodos con sudadera, pantalon suave, camisa ligera, calcetines y zapatillas sobre lino natural",
+        "generator": "imagegen built-in tool",
+        "promptSummary": "Editorial still life of comfortable children's outfit pieces on linen, no logos, text, people or real product claims."
+      }
     }
   ]
 }
