@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-11",
+  "lastRun": "2026-08-13",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -900,6 +900,48 @@
           "Production build passed; static SEO/schema/link/cannibalization checks passed",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
+      }
+    },
+    {
+      "keyword": "mejores vestidos frescos para verano",
+      "priority": "Extension BOFU",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-vestidos-frescos-verano",
+      "url": "https://nubes1982.com/blog/mejores-vestidos-frescos-verano/",
+      "title": "Mejores vestidos frescos para verano: 10 opciones utiles",
+      "selectedAt": "2026-08-13",
+      "draftedAt": "2026-08-13T13:30:00Z",
+      "serp": {
+        "target": "Google ES / Carmona, Sevilla y España",
+        "observations": [
+          "La SERP revisada el 13 de agosto de 2026 muestra intencion BOFU: buscar vestidos frescos, comodos y de verano antes de comprar o comparar opciones de temporada.",
+          "Los resultados relevantes combinan medios de moda con listicles de shopping, seleccion por planes, imagenes grandes, autoria editorial, precios cambiantes y pocos criterios profundos de prueba real.",
+          "Marie Claire orienta la consulta hacia calor intenso, tejidos que respiran y looks para ciudades como Madrid o Sevilla; Glamour organiza vestidos por planes y tendencias de verano.",
+          "El gap principal es una guia que convierta la inspiracion en decision practica: tejido, forro, holgura, largo, escote, calzado, politica de cambios, reutilizacion y calor real.",
+          "La canibalizacion con 'mejores vestidos de mujer en Sevilla' y 'mejores vestidos para comuniones' es baja: aquellos articulos comparan ocasion/localidad; este se centra en frescura y vestidos de verano."
+        ],
+        "sources": [
+          "https://www.marie-claire.es/moda/vestidos-frescos-looks-refrescantes-verano-estilismos.html",
+          "https://www.glamour.es/articulos/vestidos-bonitos-tendencia-verano",
+          "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2023/150623-medidas-proteccion-altas-temperaturas.aspx",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU de vestidos frescos de verano; respuesta directa, TOC, tabla comparativa, 10 opciones y FAQs.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce textos, precios, rankings ni experiencia personal de competidores.",
+        "accuracy": "No se inventan precios, reseñas, expertos ni claims medicos; recomendaciones sobre calor y devoluciones se apoyan en fuentes institucionales.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales a moda mujer, complementos, vestidos de mujer en Sevilla y contacto; externos a Marie Claire, Glamour, La Moncloa/Sanidad y CEC-España.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; se usa como composicion editorial, no evidencia de producto real en venta."
+      },
+      "image": {
+        "path": "/assets/mejores-vestidos-frescos-verano.jpg",
+        "alt": "Vestidos frescos de verano en lino blanco, coral y verde salvia con sandalias, capazo y gafas sobre una mesa luminosa",
+        "generator": "imagegen built-in tool",
+        "promptSummary": "Editorial still life of fresh summer dresses on linen near a sunlit window, no people, text, logos or real product claims."
       }
     }
   ]
