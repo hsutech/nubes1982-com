@@ -906,7 +906,7 @@
       "keyword": "mejores vestidos frescos para verano",
       "priority": "Extension BOFU",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-vestidos-frescos-verano",
       "url": "https://nubes1982.com/blog/mejores-vestidos-frescos-verano/",
       "title": "Mejores vestidos frescos para verano: 10 opciones utiles",
@@ -942,6 +942,25 @@
         "alt": "Vestidos frescos de verano en lino blanco, coral y verde salvia con sandalias, capazo y gafas sobre una mesa luminosa",
         "generator": "imagegen built-in tool",
         "promptSummary": "Editorial still life of fresh summer dresses on linen near a sunlit window, no people, text, logos or real product claims."
+      },
+      "publishedAt": "2026-08-13T13:30:00Z",
+      "pushedAt": "2026-08-13T13:27:00Z",
+      "commit": "ebce865",
+      "verification": {
+        "verifiedAt": "2026-08-13T13:30:00Z",
+        "httpStatus": 200,
+        "attempt": 1,
+        "checks": [
+          "Custom-domain URL returned HTTP 200 with expected article HTML",
+          "H1 matched Mejores vestidos frescos para verano: 10 opciones utiles",
+          "Canonical matched https://nubes1982.com/blog/mejores-vestidos-frescos-verano/",
+          "Featured image loaded as image/jpeg with 367836 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Existing Magnific campaign article remained live with exactly one followed backlink and required anchor",
+          "Production build passed; static SEO/schema/link/cannibalization checks passed",
+          "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
+        ]
       }
     }
   ]
