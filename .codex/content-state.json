@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-13",
+  "lastRun": "2026-08-14",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -961,6 +961,49 @@
           "Production build passed; static SEO/schema/link/cannibalization checks passed",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
+      }
+    },
+    {
+      "keyword": "mejores monos de mujer para eventos",
+      "priority": "Extension BOFU",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-monos-mujer-eventos",
+      "url": "https://nubes1982.com/blog/mejores-monos-mujer-eventos/",
+      "title": "Mejores monos de mujer para eventos: 10 opciones utiles",
+      "selectedAt": "2026-08-14",
+      "draftedAt": "2026-08-14T13:30:00Z",
+      "serp": {
+        "target": "Google ES / Carmona, Sevilla y España",
+        "observations": [
+          "La SERP revisada el 14 de agosto de 2026 muestra intencion BOFU: comparar monos de mujer para eventos, invitada, boda, bautizo y comunion antes de comprar.",
+          "Los resultados relevantes combinan medios de moda, guias de invitada y categorias comerciales, con estructura de listicle, muchas imagenes, autoria editorial y precios o stock potencialmente cambiantes.",
+          "Marie Claire posiciona el mono como alternativa al vestido para bodas, bautizos y comuniones; Bodas.net ofrece una seleccion extensa para boda; Glamour cubre protocolo de invitada.",
+          "El gap principal es una guia que traduzca la inspiracion en decision practica: tiro, cremallera, escote, largo del pantalon, tejido, forro, calor, complementos, cambios y reutilizacion.",
+          "La canibalizacion con vestidos de mujer, vestidos para comuniones, looks para bautizos y complementos de invitada es baja: este articulo se centra en la prenda mono y en sus riesgos concretos de patron y uso."
+        ],
+        "sources": [
+          "https://www.marie-claire.es/moda/adios-vestido-invitada-monos-estilizan-bodas-bautizos-comuniones-primavera-verano-2026.html",
+          "https://www.bodas.net/articulos/monos-de-fiesta-para-bodas-los-35-mejores-modelos-2017--c3333",
+          "https://www.glamour.es/articulos/protocolo-invitadas-boda-bautizo-comunion",
+          "https://www.hola.com/novias/20240915717920/monos-para-bodas/",
+          "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU de monos de mujer para eventos; respuesta directa, TOC, tabla comparativa, 10 opciones y FAQs.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce listados, precios, rankings ni experiencia personal de competidores.",
+        "accuracy": "No se inventan precios, reseñas, expertos ni stock; las recomendaciones sobre etiquetado y devoluciones se apoyan en fuentes institucionales.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales a moda mujer, vestidos para comuniones, complementos de invitada, looks de temporada y externos a Marie Claire, Bodas.net, Glamour, Your Europe y CEC-España.",
+        "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; se usa como composicion editorial, no evidencia de producto real en venta."
+      },
+      "image": {
+        "path": "/assets/mejores-monos-mujer-eventos.jpg",
+        "alt": "Tres monos de mujer para eventos en coral, verde salvia y azul marino con sandalia, bolso y pendientes sobre una mesa luminosa",
+        "generator": "imagegen built-in tool",
+        "promptSummary": "Editorial flat-lay of conceptual women event jumpsuits in coral, sage and navy with accessories, no logos, text, people or real product claims."
       }
     }
   ]
