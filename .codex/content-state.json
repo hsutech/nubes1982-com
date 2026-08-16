@@ -1029,7 +1029,7 @@
       "keyword": "mejores vestidos de invitada para boda de tarde",
       "priority": "Extension BOFU",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-vestidos-invitada-boda-tarde",
       "url": "https://nubes1982.com/blog/mejores-vestidos-invitada-boda-tarde/",
       "title": "Mejores vestidos de invitada para boda de tarde: 10 opciones utiles",
@@ -1067,6 +1067,25 @@
         "alt": "Tres vestidos conceptuales de invitada para boda de tarde en tonos vino, verde oliva y azul tinta con complementos dorados",
         "generator": "manual SVG illustration",
         "promptSummary": "Original editorial composition of conceptual wedding guest evening dresses, no logos, text as product claim, people or real product evidence."
+      },
+      "publishedAt": "2026-08-16T13:34:00Z",
+      "pushedAt": "2026-08-16T13:33:00Z",
+      "commit": "c3cd8f8",
+      "verification": {
+        "verifiedAt": "2026-08-16T13:34:00Z",
+        "httpStatus": 200,
+        "attempt": 1,
+        "checks": [
+          "Custom-domain URL returned HTTP 200 with expected article HTML",
+          "H1 matched Mejores vestidos de invitada para boda de tarde: 10 opciones utiles",
+          "Canonical matched https://nubes1982.com/blog/mejores-vestidos-invitada-boda-tarde/",
+          "Featured SVG image loaded as image/svg+xml",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Existing Magnific campaign article remained live with exactly one followed backlink and required anchor",
+          "Production build passed; static SEO/schema/link/cannibalization checks passed",
+          "Responsive CSS checks passed for article H1 wrapping, image max-width and table overflow; browser screenshot tooling unavailable in clone"
+        ]
       }
     }
   ]
