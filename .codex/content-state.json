@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-14",
+  "lastRun": "2026-08-16",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -1023,6 +1023,50 @@
           "Production build passed; static SEO/schema/link/cannibalization checks passed",
           "Public Chrome headless mobile 390x844 and desktop 1366x900 screenshots rendered nonblank"
         ]
+      }
+    },
+    {
+      "keyword": "mejores vestidos de invitada para boda de tarde",
+      "priority": "Extension BOFU",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-vestidos-invitada-boda-tarde",
+      "url": "https://nubes1982.com/blog/mejores-vestidos-invitada-boda-tarde/",
+      "title": "Mejores vestidos de invitada para boda de tarde: 10 opciones utiles",
+      "selectedAt": "2026-08-16",
+      "draftedAt": "2026-08-16T13:30:00Z",
+      "serp": {
+        "target": "Google ES / Carmona, Sevilla y España",
+        "observations": [
+          "La SERP revisada el 16 de agosto de 2026 muestra intencion BOFU: usuarias que buscan vestido de invitada para boda de tarde antes de comprar o cerrar el look.",
+          "Los resultados relevantes combinan listicles visuales de medios de moda, galerias de vestidos, guias de protocolo y categorias comerciales con precios, tallas o stock potencialmente cambiantes.",
+          "Vogue, Glamour, Hola Fashion, Elle y Bodas.net cubren inspiracion, protocolo y tendencias, pero dejan margen para una guia que traduzca tarde, lugar, tejido, largo, calor, comodidad y reutilizacion a decision de compra.",
+          "El gap principal es evitar un ranking cerrado y ofrecer 10 opciones por uso real sin inventar disponibilidad, opiniones, precios ni experiencia personal.",
+          "La canibalizacion con vestidos para comuniones, monos de mujer para eventos, looks para bautizos y complementos de invitada es baja: este articulo se centra en vestido para boda de tarde."
+        ],
+        "sources": [
+          "https://www.vogue.es/articulos/tendencias-vestidos-invitada-boda-primavera-verano-2026",
+          "https://www.hola.com/novias/20260515901551/vestidos-invitada-flores-boda-campo/",
+          "https://www.glamour.es/articulos/protocolo-invitadas-boda-bautizo-comunion",
+          "https://www.elle.com/es/moda/tendencias/g46398441/vestidos-invitada-boda/",
+          "https://www.bodas.net/articulos/como-vestir-para-una-boda-de-tarde--c9287",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU de vestidos de invitada para boda de tarde; incluye respuesta directa, TOC, comparativa, 10 opciones y FAQs.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce listados, precios, rankings ni experiencia personal de competidores.",
+        "accuracy": "No se inventan precios, reseñas, expertos ni stock; devoluciones y etiquetado se apoyan en fuentes institucionales.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales a moda mujer, complementos, looks de temporada, vestidos para comuniones, monos de mujer, complementos de invitada y contacto; externos a medios de moda, Bodas.net, CEC-España y Your Europe.",
+        "multimedia": "Imagen destacada SVG original optimizada como composicion editorial conceptual, no evidencia de producto real en venta."
+      },
+      "image": {
+        "path": "/assets/mejores-vestidos-invitada-boda-tarde.svg",
+        "alt": "Tres vestidos conceptuales de invitada para boda de tarde en tonos vino, verde oliva y azul tinta con complementos dorados",
+        "generator": "manual SVG illustration",
+        "promptSummary": "Original editorial composition of conceptual wedding guest evening dresses, no logos, text as product claim, people or real product evidence."
       }
     }
   ]

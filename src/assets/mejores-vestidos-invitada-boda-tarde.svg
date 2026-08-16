@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Composicion editorial de vestidos de invitada para boda de tarde</title>
+  <desc id="desc">Tres vestidos conceptuales en tonos vino, verde oliva y azul tinta con complementos dorados sobre fondo claro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7efe4"/>
+      <stop offset="1" stop-color="#eadccd"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#3d332b" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1330" cy="160" r="110" fill="#c8b08f" opacity=".32"/>
+  <circle cx="210" cy="820" r="145" fill="#6f7d5b" opacity=".15"/>
+  <g fill="none" stroke="#2b2a28" stroke-opacity=".14" stroke-width="2">
+    <path d="M120 198h1360M120 794h1360"/>
+    <path d="M260 110v790M800 110v790M1340 110v790"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M388 174c68 0 116 34 116 91 0 42-25 73-60 89l88 392c6 28-14 54-43 54H286c-29 0-50-27-43-55l91-390c-36-16-62-47-62-90 0-57 48-91 116-91z" fill="#8f3348"/>
+    <path d="M388 174c-23 46-41 104-54 181h111c-12-78-30-136-57-181z" fill="#b75d6d" opacity=".6"/>
+    <path d="M320 540h140" stroke="#f5efe6" stroke-opacity=".42" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M814 160c72 0 121 38 121 98 0 38-18 67-48 86l121 401c9 30-14 60-45 60H658c-31 0-54-30-45-60l123-402c-29-19-47-48-47-85 0-60 50-98 125-98z" fill="#697951"/>
+    <path d="M814 160c-39 62-63 129-76 203h153c-13-76-38-143-77-203z" fill="#98a875" opacity=".58"/>
+    <path d="M695 565c83 28 166 28 249 0" stroke="#f5efe6" stroke-opacity=".38" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M1225 188c61 0 104 32 104 85 0 39-22 68-55 84l75 392c5 28-16 53-44 53h-167c-28 0-49-26-43-54l79-391c-34-16-57-45-57-84 0-53 44-85 108-85z" fill="#29384f"/>
+    <path d="M1225 188c-28 49-44 107-50 172h98c-7-66-22-124-48-172z" fill="#4e657f" opacity=".62"/>
+    <path d="M1162 535h126" stroke="#f5efe6" stroke-opacity=".4" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g fill="#b89050" opacity=".92">
+    <circle cx="566" cy="715" r="31"/>
+    <circle cx="1056" cy="256" r="25"/>
+    <rect x="1110" y="684" width="135" height="72" rx="10"/>
+    <path d="M1210 684c0-37-19-62-48-62s-48 25-48 62" fill="none" stroke="#b89050" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2b2a28">
+    <text x="120" y="112" font-size="42" font-style="italic">Boda de tarde</text>
+    <text x="120" y="154" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="#8f3348">GUIA EDITORIAL DE COLOR, LARGO Y COMPLEMENTOS</text>
+  </g>
+</svg>
