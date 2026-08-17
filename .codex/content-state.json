@@ -1102,7 +1102,7 @@
       "keyword": "mejores accesorios para mujer",
       "priority": "Media",
       "funnel": "BOFU",
-      "status": "drafted",
+      "status": "published",
       "slug": "mejores-accesorios-mujer",
       "url": "https://nubes1982.com/blog/mejores-accesorios-mujer/",
       "title": "Mejores accesorios para mujer: 10 piezas utiles para acertar",
@@ -1141,6 +1141,25 @@
         "alt": "Bolso tejido, pañuelo estampado, gafas, pendientes, cinturon y regalo sobre una mesa de lino en una boutique",
         "generator": "imagegen built-in",
         "promptSummary": "Editorial boutique still life with women accessories, no logos, text or specific product claims."
+      },
+      "publishedAt": "2026-08-17T13:26:00Z",
+      "pushedAt": "2026-08-17T13:25:00Z",
+      "commit": "0234123",
+      "verification": {
+        "verifiedAt": "2026-08-17T13:27:00Z",
+        "httpStatus": 200,
+        "attempt": 2,
+        "checks": [
+          "Custom-domain URL returned HTTP 200 with expected article HTML",
+          "H1 matched Mejores accesorios para mujer: 10 piezas utiles para acertar",
+          "Canonical matched https://nubes1982.com/blog/mejores-accesorios-mujer/",
+          "Featured JPEG image loaded as image/jpeg-compatible bytes with 383544 bytes",
+          "Article appeared in blog index",
+          "Article appeared in sitemap.xml",
+          "Existing Magnific campaign article remained live with exactly one followed backlink and required anchor",
+          "Production build passed; static SEO/schema/link/cannibalization checks passed",
+          "Browser screenshot tooling unavailable in clone; dist HTML, responsive CSS constraints, image and table structure checked statically"
+        ]
       }
     }
   ]
