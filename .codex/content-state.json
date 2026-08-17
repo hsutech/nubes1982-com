@@ -3,7 +3,7 @@
   "company": "Modas Nubes",
   "market": "Carmona, Sevilla, Spain",
   "language": "Español",
-  "lastRun": "2026-08-16",
+  "lastRun": "2026-08-17",
   "items": [
     {
       "keyword": "mejores boutiques en Carmona",
@@ -1086,6 +1086,61 @@
           "Production build passed; static SEO/schema/link/cannibalization checks passed",
           "Responsive CSS checks passed for article H1 wrapping, image max-width and table overflow; browser screenshot tooling unavailable in clone"
         ]
+      }
+    },
+    {
+      "keyword": "mejores prendas para regalar a una mujer",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "skipped",
+      "slug": "mejores-prendas-para-regalar-mujer",
+      "selectedAt": "2026-08-17",
+      "skippedAt": "2026-08-17T13:20:00Z",
+      "reason": "Canibalizacion: la intencion se solapa con el articulo publicado sobre mejores regalos para mujer en Carmona, que ya cubre prendas, complementos, cambios y compra local para regalar."
+    },
+    {
+      "keyword": "mejores accesorios para mujer",
+      "priority": "Media",
+      "funnel": "BOFU",
+      "status": "drafted",
+      "slug": "mejores-accesorios-mujer",
+      "url": "https://nubes1982.com/blog/mejores-accesorios-mujer/",
+      "title": "Mejores accesorios para mujer: 10 piezas utiles para acertar",
+      "selectedAt": "2026-08-17",
+      "draftedAt": "2026-08-17T13:20:00Z",
+      "serp": {
+        "target": "Google ES / Carmona, Sevilla y España",
+        "observations": [
+          "La SERP revisada el 17 de agosto de 2026 muestra intencion comercial BOFU: usuarias que buscan que accesorios priorizar antes de comprar, regalar o completar looks.",
+          "Los resultados relevantes combinan guias editoriales, galerias de tendencias, categorias ecommerce y listicles con productos o stock cambiantes.",
+          "Vogue España, Zara, Zalando Prive, Marie Claire, Farfetch y otros resultados cubren bolsos, pañuelos, gafas, cinturones, joyeria, accesorios de pelo y calzado, normalmente con alta carga visual y enfoque de temporada.",
+          "El gap principal es una guia estable que traduzca accesorios a uso real, comodidad, combinacion, regalos y condiciones de compra sin inventar precios, rankings universales ni disponibilidad.",
+          "La canibalizacion con regalos para mujer y complementos de invitada es baja tras saltar el topic de prendas para regalar: este articulo se centra en accesorios de diario, evento y compra general."
+        ],
+        "sources": [
+          "https://consejosdemoda.es/accesorios/",
+          "https://www.vogue.es/articulos/compras-accesorios-tendencia-verano-2026",
+          "https://ivoluxt.com/blogs/vestir-despacio/guia-practica-de-complementos-de-mujer-para-cada-look",
+          "https://www.zara.com/es/es/mujer-accesorios-l1003.html",
+          "https://www.farfetch.com/es/sets/women/me-must-have-accessories.aspx",
+          "https://www.zalando-prive.es/magazine/10-accesorios-de-mujer-must-have/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://europa.eu/youreurope/business/product-requirements/labels-markings/textile-label/index_es.htm"
+        ]
+      },
+      "editorialReview": {
+        "intent": "Alineada con busqueda BOFU de mejores accesorios para mujer; incluye respuesta directa, SERP, comparativa, 10 opciones y FAQs.",
+        "originality": "Contenido original basado en criterios practicos; no reproduce listados, precios, rankings ni experiencias de competidores.",
+        "accuracy": "No se inventan precios, reseñas, expertos, materiales ni stock; devoluciones y etiquetado se apoyan en fuentes institucionales.",
+        "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList, FAQPage, canonical y Open Graph.",
+        "links": "Incluye enlaces internos reales a complementos, moda mujer, regalos, complementos de invitada, regalos para mujer y contacto; externos a medios, ecommerce y fuentes institucionales.",
+        "multimedia": "Imagen destacada bitmap original generada con imagegen, optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a esta intencion."
+      },
+      "image": {
+        "path": "/assets/mejores-accesorios-mujer.jpg",
+        "alt": "Bolso tejido, pañuelo estampado, gafas, pendientes, cinturon y regalo sobre una mesa de lino en una boutique",
+        "generator": "imagegen built-in",
+        "promptSummary": "Editorial boutique still life with women accessories, no logos, text or specific product claims."
       }
     }
   ]
