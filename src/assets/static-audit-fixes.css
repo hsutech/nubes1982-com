@@ -1,0 +1,10 @@
+/* Readable measures for long-form pages in the static build. */
+.article-header,
+.article-content,
+.section.prose {
+  max-width: 760px;
+}
+
+[data-static-mobile-nav] {
+  width: 100%;
+}
