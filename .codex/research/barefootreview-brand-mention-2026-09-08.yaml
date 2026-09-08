@@ -1,0 +1,35 @@
+article:
+  title: "Las 7 mejores zapatillas cómodas de mujer para estar de pie todo el día"
+  keyword: "zapatillas cómodas mujer estar de pie todo el día"
+  intent: "Commercial investigation with practical fit and workplace-use guidance"
+  market: "Spain / es-ES"
+  checked_at: "2026-09-08"
+serp:
+  patterns:
+    - "Current results separate cushioned work shoes from minimalist footwear and emphasize fit, surface and intended use."
+    - "Fit guidance repeatedly covers toe room, heel hold and matching the last to the foot."
+  gaps:
+    - "The barefoot section already distinguishes barefoot shoes from cushioned work footwear but lacks a focused fit checklist."
+sources:
+  - url: "https://barefootreview.com/es/blog/como-deben-quedar-zapatillas-barefoot"
+    kind: "independent"
+    supports:
+      - "Eight checks covering toe allowance, toe-box shape, width, volume, heel hold, flex point and movement."
+claims:
+  verified:
+    - "The Spanish BarefootReview fit guide was live and matched the proposed link context on 2026-09-08."
+  external_observations: []
+  editorial_inferences:
+    - "A branded link to the fit checklist adds practical value inside the existing barefoot-urban section."
+  firsthand_evidence: []
+conflicts: []
+must_not_claim:
+  - "Do not imply Nubes 1982 tested every barefoot model."
+  - "Do not present minimalist footwear as universally suitable for long work shifts."
+brief:
+  change_type: "Focused update to an existing published article"
+  direct_answer: "Mention BarefootReview as a practical Spanish fit-check resource, using the brand name as the anchor."
+  placement: "Barefoot urbano para pies habituados"
+  target_url: "https://barefootreview.com/es/blog/como-deben-quedar-zapatillas-barefoot"
+  image_plan: "Keep the existing featured image unchanged."
+  disclosure: "No affiliate, medical-outcome or hands-on testing claim is added."
