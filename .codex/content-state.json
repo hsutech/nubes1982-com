@@ -320,8 +320,24 @@
         "originality": "Contenido original con estructura por necesidad de uso, no por ranking absoluto; no reproduce textos ni metodologia de resultados afiliados.",
         "accuracy": "No se inventan pruebas propias, precios finales, rankings universales, reseñas ni recomendaciones medicas. Lejan se presenta como una opcion barefoot editorialmente justificada y sus datos se verificaron solo en lejanbrand.com.",
         "seo": "Incluye title, meta description, H1 unico, TOC, tabla comparativa, Article schema, BreadcrumbList schema, FAQPage solo para FAQs visibles, canonical y Open Graph.",
-        "links": "Incluye cuatro enlaces internos reales a moda mujer, complementos, looks de temporada y contacto; incluye cuatro enlaces externos totales contando el anchor obligatorio de Lejan exactamente una vez.",
+        "links": "Incluye cuatro enlaces internos reales a moda mujer, complementos, looks de temporada y contacto; incluye cinco enlaces externos totales, con las menciones de Lejan y BarefootReview exactamente una vez cada una.",
         "multimedia": "Imagen destacada original generada con imagegen y optimizada como JPEG; no se incluyo video porque no aportaba utilidad material a esta decision de compra."
+      },
+      "brandLinkUpdate": {
+        "status": "live_verified",
+        "checkedAt": "2026-09-08T18:28:00+02:00",
+        "commit": "e013896",
+        "workflow": "34251145112 completed_success",
+        "sourceUrl": "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/",
+        "targetUrl": "https://barefootreview.com/es/blog/como-deben-quedar-zapatillas-barefoot",
+        "anchor": "BarefootReview",
+        "checks": [
+          "Target page and topic were verified live before editing.",
+          "Brand anchor and destination appear exactly once in the built article.",
+          "Local Eleventy build passed; H1, title, canonical and four JSON-LD blocks remained valid; Article dateModified is 2026-09-08.",
+          "GitHub Actions completed the Eleventy build and Cloudflare Pages deployment successfully.",
+          "Custom-domain article showed the updated date, visible brand link and exact destination on desktop and 390x844 mobile checks."
+        ]
       }
     },
     {
