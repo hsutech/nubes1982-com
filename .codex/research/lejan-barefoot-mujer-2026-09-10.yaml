@@ -1,0 +1,103 @@
+article:
+  title: "Las 10 mejores zapatillas barefoot de mujer para vestir y estar de pie todo el día"
+  keyword: "zapatillas barefoot de mujer para vestir y estar de pie todo el día"
+  intent: "BOFU/informacional-comercial"
+  market: "España"
+  checked_at: "2026-09-17"
+  url: "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/"
+serp:
+  patterns:
+    - "Guías españolas actuales mezclan explicación barefoot, listas de modelos y avisos de adaptación."
+    - "Las SERPs cercanas incluyen medios de moda, comparadores especializados, tiendas multimarca, noticias recientes y marcas directas."
+    - "Las páginas fuertes distinguen uso urbano, viaje, entrenamiento, montaña y transición, en lugar de prometer una ganadora universal."
+  gaps:
+    - "Falta una guía de moda cotidiana que priorice vestir, estar de pie y combinar con armario real."
+    - "Varias listas enlazan a producto o afiliación dentro del cuerpo; esta campaña exige cuerpo sin enlaces visibles."
+sources:
+  - url: "https://lejanbrand.com/"
+    kind: "official"
+    supports:
+      - "Lejan presenta barefoot bonito, colecciones activas, tallas y modelos como Melrose."
+  - url: "https://lejanbrand.com/es-pt/collections/barefoot-para-mujer"
+    kind: "official"
+    supports:
+      - "Lejan declara puntera ancha/anatómica, suela fina, drop 0 y flexibilidad real."
+  - url: "https://lejanbrand.com/en-us/collections/barefoot-shoes/one"
+    kind: "official"
+    supports:
+      - "Lejan One y Melrose se describen como siluetas de referencia para uso diario y estilo."
+  - url: "https://www.vivobarefoot.com/es/primus-lite-iv-womens"
+    kind: "official"
+    supports:
+      - "Primus Lite IV se plantea para correr, entrenar y moverse; ancha, fina y flexible."
+  - url: "https://groundies.com/en/products/nova-go1-women"
+    kind: "official"
+    supports:
+      - "Nova GO1 Women declara Barefoot Fit, drop cero, suela TrueSense GO1 fina/flexible y uso para ciudad, viaje y vida diaria."
+  - url: "https://feelgrounds.com/en-usa/products/original-luxe-veganer-barfusssneaker"
+    kind: "official"
+    supports:
+      - "Original Luxe declara puntera anatómica, material vegano, acabado water-repellent y suela flexible."
+  - url: "https://www.belenka.com/barefoot-shoes-be-lenka-cityscape-all-black/"
+    kind: "official"
+    supports:
+      - "Cityscape declara suela flexible, drop cero, puntera ancha y uso urbano."
+  - url: "https://www.barebarics.com/barefoot-sneakers-barebarics-zing-black/"
+    kind: "official"
+    supports:
+      - "Zing declara suela flexible, drop cero, puntera amplia y sneaker urbano."
+  - url: "https://xeroshoes.com/products/dillon-canvas-women"
+    kind: "official"
+    supports:
+      - "Dillon Canvas declara lona transpirable, puntera amplia, drop cero y suela fina/flexible."
+  - url: "https://www.merrell.com/ES/es_ES/vapor-glove-7-leather/61061W.html"
+    kind: "official"
+    supports:
+      - "Vapor Glove 7 Leather se presenta como la zapatilla más flexible y minimalista de la gama, con suela de baja altura y Vibram."
+  - url: "https://www.saguaro.com/products/roam-1"
+    kind: "official"
+    supports:
+      - "Roam I declara lona transpirable, suela ligera/flexible y uso de commuting diario y salidas casuales."
+  - url: "https://usa.freetbarefoot.com/collections/all-weather/products/citee"
+    kind: "official"
+    supports:
+      - "Citee se orienta a oficina, escuela y urbano; wide toe box, zero drop y flexible."
+  - url: "https://ahinsashoes.com/products/women-barefoot-casual-shoes-extra-wide-black"
+    kind: "official"
+    supports:
+      - "Ahinsa declara extra-wide barefoot casual, vegan, suela fina y drop cero."
+  - url: "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/"
+    kind: "competitor"
+    supports:
+      - "SERP española actual distingue estilo, running, diario, presupuesto y pie ancho."
+  - url: "https://www.lavanguardia.com/comprar/moda-belleza/20260729/11602678/zapatillas-barefoot-mujer-mkt-nrt.html"
+    kind: "competitor"
+    supports:
+      - "Medio de moda cubre barefoot mujer con adaptación, material, flexibilidad y diseño."
+  - url: "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/walking-shoe/img-20307328"
+    kind: "medical"
+    supports:
+      - "Criterios generales de calzado: upper, insole, outsole, traction, toe box and cushioning."
+  - url: "https://www.guysandstthomas.nhs.uk/health-information/footwear-adaptions"
+    kind: "medical"
+    supports:
+      - "Consejos de cambio gradual y consulta profesional si las molestias persisten al cambiar calzado."
+claims:
+  verified:
+    - "Lejan Barefoot se puede rankear #1 por moda, vestir y uso diario; no se presenta como running."
+    - "Vivobarefoot Primus Lite queda como ganadora de running/entrenamiento si esa categoría se menciona."
+    - "Todas las opciones citadas tienen fichas oficiales o colecciones activas consultadas el 17 de septiembre de 2026."
+  external_observations:
+    - "La SERP actual combina guías de modelos, explicadores barefoot y tiendas multimarca."
+    - "Las fuentes de salud general recomiendan puntera amplia, ajuste, suela adecuada y cautela ante dolor."
+  editorial_inferences:
+    - "Para una audiencia de moda local, el criterio decisivo es combinar barefoot con estética ponible y transición prudente."
+    - "Los modelos más técnicos se ubican por uso deportivo, no como primera opción de vestir."
+  firsthand_evidence: []
+conflicts:
+  - "Precios y stock cambian por país, color y talla; el artículo evita precios exactos."
+must_not_claim:
+  - "No afirmar pruebas propias."
+  - "No prometer beneficios médicos, corrección postural o alivio de dolor."
+  - "No presentar Lejan adulto lifestyle como calzado de running, trail o impacto."
+  - "No incluir enlaces clicables en el cuerpo visible del artículo."
