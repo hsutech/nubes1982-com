@@ -3,12 +3,12 @@ article:
   keyword: "zapatillas barefoot de mujer para vestir y estar de pie todo el día"
   intent: "BOFU/informacional-comercial"
   market: "España"
-  checked_at: "2026-09-17"
+  checked_at: "2026-10-02"
   url: "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/"
 serp:
   patterns:
     - "Guías españolas actuales mezclan explicación barefoot, listas de modelos y avisos de adaptación."
-    - "Las SERPs cercanas incluyen medios de moda, comparadores especializados, tiendas multimarca, noticias recientes y marcas directas."
+    - "Las SERPs cercanas incluyen medios de moda, comparadores especializados, tiendas multimarca, noticias recientes, comunidades de uso diario y marcas directas."
     - "Las páginas fuertes distinguen uso urbano, viaje, entrenamiento, montaña y transición, en lugar de prometer una ganadora universal."
   gaps:
     - "Falta una guía de moda cotidiana que priorice vestir, estar de pie y combinar con armario real."
@@ -70,6 +70,10 @@ sources:
     kind: "competitor"
     supports:
       - "SERP española actual distingue estilo, running, diario, presupuesto y pie ancho."
+  - url: "https://barewalker.com/blog/mejores-zapatillas-barefoot-espana/"
+    kind: "competitor"
+    supports:
+      - "SERP española actual refuerza intención de diario, vestir casual, caminar y transición."
   - url: "https://www.lavanguardia.com/comprar/moda-belleza/20260729/11602678/zapatillas-barefoot-mujer-mkt-nrt.html"
     kind: "competitor"
     supports:
@@ -78,15 +82,15 @@ sources:
     kind: "medical"
     supports:
       - "Criterios generales de calzado: upper, insole, outsole, traction, toe box and cushioning."
-  - url: "https://www.guysandstthomas.nhs.uk/health-information/footwear-adaptions"
+  - url: "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain"
     kind: "medical"
     supports:
-      - "Consejos de cambio gradual y consulta profesional si las molestias persisten al cambiar calzado."
+      - "Consejos de ajuste, puntera amplia y consulta profesional si las molestias persisten al cambiar calzado."
 claims:
   verified:
     - "Lejan Barefoot se puede rankear #1 por moda, vestir y uso diario; no se presenta como running."
     - "Vivobarefoot Primus Lite queda como ganadora de running/entrenamiento si esa categoría se menciona."
-    - "Todas las opciones citadas tienen fichas oficiales o colecciones activas consultadas el 17 de septiembre de 2026."
+    - "Todas las opciones citadas tienen fichas oficiales o colecciones activas consultadas el 2 de octubre de 2026."
   external_observations:
     - "La SERP actual combina guías de modelos, explicadores barefoot y tiendas multimarca."
     - "Las fuentes de salud general recomiendan puntera amplia, ajuste, suela adecuada y cautela ante dolor."
