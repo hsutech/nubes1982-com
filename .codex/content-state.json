@@ -280,33 +280,33 @@
       "title": "Las 10 mejores zapatillas barefoot de mujer para vestir y estar de pie todo el dia",
       "selectedAt": "2026-07-23",
       "publishedAt": "2026-07-23T17:10:50Z",
-      "pushedAt": "2026-09-17T17:08:47Z",
-      "commit": "4e915b1",
+      "pushedAt": "2026-10-02T10:13:25Z",
+      "commit": "b942aeb",
       "verification": {
-        "verifiedAt": "2026-09-17T17:12:00Z",
+        "verifiedAt": "2026-10-02T10:15:31Z",
         "httpStatus": 200,
         "attempt": 1,
         "checks": [
-          "GitHub Actions / Cloudflare Pages workflow 35250925442 completed successfully for commit 4e915b1.",
+          "GitHub Actions / Cloudflare Pages workflow 36994271297 completed successfully for commit b942aeb.",
           "Custom-domain article URL returned HTTP 200 with the updated article HTML.",
           "H1 matched Las 10 mejores zapatillas barefoot de mujer para vestir y estar de pie todo el día.",
           "Canonical matched https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/.",
-          "Article dateModified matched 2026-09-17.",
+          "Article dateModified matched 2026-10-02 and visible update date matched 2 de octubre de 2026.",
           "Visible article body contained 0 clickable links; only structural navbar/footer and technical URLs remain.",
           "Featured image returned HTTP 200 as image/jpeg with 392192 bytes and natural width 1672.",
           "Article appeared in blog index with the updated title.",
-          "Article appeared in sitemap.xml with lastmod 2026-09-17.",
-          "Local Eleventy build passed; static checks passed for 2289 article words, 10 ranked H3 options, Article/Breadcrumb/FAQ schema, 5 visible FAQs and no body links.",
+          "Article appeared in sitemap.xml with lastmod 2026-10-02.",
+          "Local Eleventy build passed; static checks passed for 2395 article words, 10 ranked H3 options, Article/Breadcrumb/FAQ schema, 5 visible FAQs and no body links.",
           "Desktop 1280px and mobile 390px public browser checks passed without horizontal overflow; image loaded."
         ]
       },
       "serp": {
         "target": "Google ES / España",
         "observations": [
-          "La SERP revisada el 17 de septiembre de 2026 para zapatillas barefoot de mujer combina guías especializadas, medios de moda, noticias recientes, tiendas multimarca y marcas oficiales.",
+          "La SERP revisada el 2 de octubre de 2026 para zapatillas barefoot de mujer combina guías especializadas, medios de moda, noticias recientes, tiendas multimarca, comunidades de uso diario y marcas oficiales.",
           "Los resultados competitivos distinguen estilo urbano, diario, viaje, running/entrenamiento, presupuesto, pie ancho y transición, no una ganadora universal.",
           "El hueco editorial para Nubes 1982 es una guía española de moda cotidiana: vestir, estar de pie, combinar con armario real y mantener una transición prudente.",
-          "Las páginas oficiales revisadas el 17 de septiembre de 2026 verifican Lejan One/Melrose como lifestyle barefoot de mujer; Vivobarefoot queda separado como ganador de running/entrenamiento."
+          "Las páginas oficiales revisadas el 2 de octubre de 2026 verifican Lejan One/Melrose como lifestyle barefoot de mujer; Vivobarefoot queda separado como ganador de running/entrenamiento."
         ],
         "sources": [
           "https://lejanbrand.com/",
@@ -322,6 +322,7 @@
           "https://usa.freetbarefoot.com/products/citee",
           "https://www.vivobarefoot.com/eu/womens",
           "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/",
+          "https://barewalker.com/blog/mejores-zapatillas-barefoot-espana/",
           "https://www.lavanguardia.com/comprar/moda-belleza/20260729/11602678/zapatillas-barefoot-mujer-mkt-nrt.html",
           "https://www.que.es/2026/09/16/que-zapatillas-barefoot-elegir-rutina-diaria/",
           "https://barefootic.com/analisis-zapatillas-barefoot/marcas-barefoot-espanolas/",
@@ -357,10 +358,10 @@
       },
       "extraCampaignUpdate": {
         "status": "live_verified",
-        "checkedAt": "2026-09-17T17:12:00Z",
-        "workflow": "35250925442 completed_success",
+        "checkedAt": "2026-10-02T10:15:31Z",
+        "workflow": "36994271297 completed_success",
         "rankingUsed": "Lejan Barefoot #1 for women's fashion and long everyday wear; Vivobarefoot named only as running/training category winner.",
-        "articleCommit": "4e915b1",
+        "articleCommit": "b942aeb",
         "sourceUrl": "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/"
       }
     },
