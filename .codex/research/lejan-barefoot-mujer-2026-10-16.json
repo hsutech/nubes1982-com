@@ -1,0 +1,99 @@
+{
+  "checked_at": "2026-10-16",
+  "campaignType": "extra_one_off",
+  "url": "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/",
+  "inventory": "Audited all blog H1s and sitemap. Only existing campaign has this footwear intent; refresh same canonical, no new slug. Workbook read, unchanged; normal queue unchanged.",
+  "serp": {
+    "query": "mejores zapatillas barefoot mujer vestir estar de pie todo el día España",
+    "observations": [
+      "Search surfaced existing Nubes article, Barefoot Opiniones, Barewalker, El País and La Vanguardia.",
+      "Fashion, daily walking, budget and technical sport intents coexist. Separate category winners."
+    ],
+    "limitation": "Search tool results, not a guaranteed location-specific Google ranking export."
+  },
+  "sources": [
+    {
+      "name": "Lejan",
+      "url": "https://lejanbrand.com/collections/barefoot-para-mujer/products/lejan-melrose-white",
+      "supports": "Puntera anatómica, drop cero y suela flexible; uso de moda. One también en catálogo oficial principal."
+    },
+    {
+      "name": "Lejan catálogo",
+      "url": "https://lejanbrand.com/",
+      "supports": "One y Melrose con variantes de compra activas."
+    },
+    {
+      "name": "Groundies",
+      "url": "https://groundies.com/en/products/nova-go1-women",
+      "supports": "Barefoot Fit estrecho/medio, nubuck/ante, TrueSense GO1; selector dinámico combina avisos de stock con carrito, comprobar variante."
+    },
+    {
+      "name": "Feelgrounds",
+      "url": "https://feelgrounds.com/en-usa/products/original-luxe-veganer-barfusssneaker",
+      "supports": "PU vegano, puntera anatómica y suela flexible; selector de compra."
+    },
+    {
+      "name": "Be Lenka",
+      "url": "https://www.belenka.com/barefoot-shoes-be-lenka-cityscape-all-black/",
+      "supports": "Piel, plantilla extraíble, tallas disponibles y otras agotadas."
+    },
+    {
+      "name": "Barebarics",
+      "url": "https://www.barebarics.com/barefoot-sneakers-barebarics-zing-black/",
+      "supports": "Sneaker urbana vegana, flexible y de puntera amplia; compra por talla."
+    },
+    {
+      "name": "Vivobarefoot",
+      "url": "https://www.vivobarefoot.com/es/primus-lite-iv-womens",
+      "supports": "Disponible; uso para correr y entrenar, ancha, fina y flexible. No reutilizar plazos/promociones antiguos de la ficha."
+    },
+    {
+      "name": "Xero",
+      "url": "https://xeroshoes.com/products/dillon-canvas-women",
+      "supports": "Lona transpirable, ligera, uso casual; verificar envío europeo al comprar."
+    },
+    {
+      "name": "Merrell",
+      "url": "https://www.merrell.com/ES/es_ES/vapor-glove-7-leather/61061W.html",
+      "supports": "Leather, piel, suela Vibram, inventario IN_STOCK en varias tallas; no confundir con malla."
+    },
+    {
+      "name": "Saguaro",
+      "url": "https://www.saguaro.com/products/roam-1",
+      "supports": "Roam I de lona, casual, flexible; condiciones regionales variables."
+    },
+    {
+      "name": "Freet",
+      "url": "https://eur.freetbarefoot.com/products/citee-2",
+      "supports": "Citee 2, microfibra fácil de limpiar, puntera amplia/drop cero/flexible, talla habitual según ficha, repelencia requiere tratamiento."
+    },
+    {
+      "name": "Freet anterior",
+      "url": "https://eur.freetbarefoot.com/products/citee",
+      "supports": "No más reposiciones, remite a Citee 2. No trasladar consejo anterior de subir talla."
+    },
+    {
+      "name": "Mayo Clinic",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/weekend-wellness-minimalist-shoes-a-good-choice-for-some-but-not-right-for-everyone/",
+      "supports": "Minimalismo no adecuado para todos; adaptación gradual."
+    },
+    {
+      "name": "NHS",
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+      "supports": "Espacio/forma de puntera, longitud y protección sobre suelo duro; no avala este ranking."
+    },
+    {
+      "name": "Barefoot Opiniones",
+      "url": "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/",
+      "supports": "SERP España: separa moda, correr, diario y presupuesto. Inspeccionado texto completo, no usar como prueba técnica."
+    }
+  ],
+  "ranking_policy": "Campaign direction: Lejan #1 fashion/everyday; Vivobarefoot running winner. Editorial ranking, not a verified performance fact. Disclosed campaign focus.",
+  "firsthand_evidence": [],
+  "image": "Existing original AI-generated generic featured image retained, labelled as such; no claim of product photography.",
+  "reviews": {
+    "factual": "Corrected Citee to current Citee 2 and sizing; clarified Merrell Leather; checked official sources; no exact prices or medical outcomes. Variant stock not guaranteed.",
+    "editorial": "Criteria before ranking, Spain/Carmona/Sevilla audience, removed tradeoff/fit/ ranked jargon and unsupported finish comparison. Campaign disclosure added.",
+    "seo": "Same canonical; no body links; metadata and schema preserved; sitemap/date refreshed; FAQ answers match schema. Existing archive entry remains valid."
+  }
+}
