@@ -280,26 +280,25 @@
       "title": "Las 10 mejores zapatillas barefoot de mujer para vestir y estar de pie todo el dia",
       "selectedAt": "2026-07-23",
       "publishedAt": "2026-07-23T17:10:50Z",
-      "pushedAt": "2026-10-16T18:14:55.502317+00:00",
-      "commit": "581d7f477dbcce3eca9f27e23e996ebf94665586",
+      "pushedAt": "2026-10-30T06:19:56.753888+00:00",
+      "commit": "eb80807d08004b347a21f3697457361f44a45d82",
       "verification": {
-        "verifiedAt": "2026-10-16T18:14:55.502317+00:00",
+        "verifiedAt": "2026-10-30T06:19:56.753888+00:00",
         "httpStatus": 200,
         "attempt": 2,
         "checks": [
-          "Eleventy build and git diff --check passed.",
-          "H1, canonical, Article dateModified, Open Graph, original featured image, blog listing and sitemap verified on custom domain.",
-          "Desktop 1280 and mobile 390: image loaded at 1672px natural width, no horizontal overflow.",
-          "10 ranked options; zero article links; 5 FAQs exactly match FAQPage schema.",
-          "Article 2442 words including visible FAQ text; 2278 words with details collapsed.",
-          "Separate factual, editorial and SEO review documented in research ledger."
+          "npm ci, npm run build and git diff --check passed.",
+          "2396 article words; 10 ranked options; zero article links; 5 FAQs exactly match schema.",
+          "Custom domain H1, canonical, dateModified, image JPEG (392192 bytes), blog listing and sitemap passed.",
+          "Public desktop 1280 and mobile 390: original image loaded (1672 natural width), no horizontal overflow; screenshots inspected.",
+          "Separate factual, editorial and SEO reviews in research ledger."
         ]
       },
       "serp": {
-        "target": "España; web search, not geo-locked Google export",
+        "target": "España; search tool results, not geolocated Google ranking",
         "observations": [
-          "Search surfaced existing Nubes article, Barefoot Opiniones, Barewalker, El País and La Vanguardia.",
-          "Fashion, daily walking, budget and technical sport intents coexist. Separate category winners."
+          "Current search results were noisy: Spanish forum discussions about comfort, standing and travel, retail gift guides and PDFs. No reliable ordered Google ES ranking available.",
+          "Inspected full existing competitor Barefoot Opiniones guide: category winners, fit, daily use and running. Keep Nubes focus on fashion and Carmona/Sevilla daily wear."
         ],
         "sources": [
           "https://lejanbrand.com/collections/barefoot-para-mujer/products/lejan-melrose-white",
@@ -313,16 +312,15 @@
           "https://www.merrell.com/ES/es_ES/vapor-glove-7-leather/61061W.html",
           "https://www.saguaro.com/products/roam-1",
           "https://eur.freetbarefoot.com/products/citee-2",
-          "https://eur.freetbarefoot.com/products/citee",
           "https://newsnetwork.mayoclinic.org/discussion/weekend-wellness-minimalist-shoes-a-good-choice-for-some-but-not-right-for-everyone/",
           "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
           "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/"
         ]
       },
       "editorialReview": {
-        "factual": "Corrected Citee to current Citee 2 and sizing; clarified Merrell Leather; checked official sources; no exact prices or medical outcomes. Variant stock not guaranteed.",
-        "editorial": "Criteria before ranking, Spain/Carmona/Sevilla audience, removed tradeoff/fit/ ranked jargon and unsupported finish comparison. Campaign disclosure added.",
-        "seo": "Same canonical; no body links; metadata and schema preserved; sitemap/date refreshed; FAQ answers match schema. Existing archive entry remains valid."
+        "factual": "Reviewed ten official model pages. Narrowed Lejan to verified Melrose, added model-specific sizing warning; resolved Freet and Lejan stock using live store. No prices, testing, medical outcomes, or sport claims for Lejan.",
+        "editorial": "Separate editorial pass: criteria precede ranking, campaign disclosure retained; shortened repeated prose; Spain shipping and returns mentioned; daily wear/travel/running/children distinguished; no hands-on implication.",
+        "seo": "Separate SEO pass: retained canonical to avoid cannibalization; unchanged H1 and listing; date/schema/sitemap synchronized; original labelled AI image retained; zero body links and FAQ parity verified in build."
       },
       "brandLinkUpdate": {
         "status": "live_verified",
@@ -342,12 +340,12 @@
       },
       "extraCampaignUpdate": {
         "status": "live_verified",
-        "checkedAt": "2026-10-16T18:14:55.502317+00:00",
-        "workflow": "38895562435",
+        "checkedAt": "2026-10-30T06:19:56.753888+00:00",
+        "workflow": "41013369746",
         "rankingUsed": "Campaign direction: Lejan #1 fashion/everyday; Vivobarefoot running winner. Editorial ranking, not a verified performance fact. Disclosed campaign focus.",
-        "articleCommit": "581d7f477dbcce3eca9f27e23e996ebf94665586",
+        "articleCommit": "eb80807d08004b347a21f3697457361f44a45d82",
         "sourceUrl": "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/",
-        "researchLedger": ".codex/research/lejan-barefoot-mujer-2026-10-16.json"
+        "researchLedger": ".codex/research/lejan-barefoot-mujer-2026-10-30.json"
       }
     },
     {
