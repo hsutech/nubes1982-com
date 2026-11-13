@@ -1,0 +1,118 @@
+{
+  "checked_at": "2026-11-12",
+  "campaignType": "extra_one_off",
+  "url": "https://nubes1982.com/blog/mejores-zapatillas-comodas-mujer-estar-de-pie/",
+  "inventory": "Synced origin/main 8379dc1 in isolated clone of assigned project. Blog and sitemap audit found one barefoot/standing page. Reused its canonical URL and campaign entry.",
+  "serp": {
+    "query": "mejores zapatillas barefoot mujer vestir estar de pie todo el día España",
+    "observations": [
+      "Spanish search surfaced existing Nubes guide, Barefoot Opiniones, El País Escaparate and lifestyle comparisons. Read Barefoot Opiniones and El País; observed category winners and fit advice. Distinguish this guide with prolonged standing on hard floors, local daily wear and fit checks."
+    ],
+    "limitation": "Search tool results are not a geolocated Google ES export; no search-volume or position claims."
+  },
+  "sources": [
+    {
+      "name": "Lejan",
+      "url": "https://lejanbrand.com/products/lejan-melrose-white?variant=53927153336649",
+      "supports": "Puntera anatómica, drop cero, suela flexible, serraje y nylon, talla grande, envío a España."
+    },
+    {
+      "name": "Lejan catálogo",
+      "url": "https://lejanbrand.com/",
+      "supports": "Official current catalogue lists Melrose and One. Ranking now identifies Melrose specifically."
+    },
+    {
+      "name": "Groundies",
+      "url": "https://groundies.com/en/products/nova-go1-women",
+      "supports": "Barefoot Fit estrecho/medio, nubuck/ante, TrueSense GO1; selector dinámico combina avisos de stock con carrito, comprobar variante."
+    },
+    {
+      "name": "Feelgrounds",
+      "url": "https://feelgrounds.com/en/collections/vegane-barfussschuhe/products/original-luxe-veganer-barfusssneaker",
+      "supports": "European Original Luxe listing; vegan synthetic leather and flexible sole."
+    },
+    {
+      "name": "Be Lenka",
+      "url": "https://www.belenka.com/barefoot-shoes-be-lenka-cityscape-all-black/",
+      "supports": "Piel, plantilla extraíble, tallas disponibles y otras agotadas."
+    },
+    {
+      "name": "Barebarics",
+      "url": "https://www.barebarics.com/barefoot-sneakers-barebarics-zing-black/",
+      "supports": "Sneaker urbana vegana, flexible y de puntera amplia; compra por talla."
+    },
+    {
+      "name": "Vivobarefoot",
+      "url": "https://www.vivobarefoot.com/es/primus-lite-iv-womens",
+      "supports": "Disponible; uso para correr y entrenar, ancha, fina y flexible. No reutilizar plazos/promociones antiguos de la ficha."
+    },
+    {
+      "name": "Xero",
+      "url": "https://xeroshoes.eu/products/dillon-canvas-women",
+      "supports": "European women’s Dillon Canvas listing; breathable canvas, wide toe box, zero drop and thin flexible sole."
+    },
+    {
+      "name": "Merrell",
+      "url": "https://www.merrell.com/ES/es_ES/vapor-glove-7-leather/61061W.html",
+      "supports": "Leather, piel, suela Vibram, inventario IN_STOCK en varias tallas; no confundir con malla."
+    },
+    {
+      "name": "Saguaro",
+      "url": "https://www.saguaro.com/products/roam-1",
+      "supports": "Roam I de lona, casual, flexible; condiciones regionales variables."
+    },
+    {
+      "name": "Freet",
+      "url": "https://eur.freetbarefoot.com/products/citee-2",
+      "supports": "Citee 2, microfibra fácil de limpiar, puntera amplia/drop cero/flexible, talla habitual según ficha, repelencia requiere tratamiento."
+    },
+    {
+      "name": "Mayo Clinic",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/weekend-wellness-minimalist-shoes-a-good-choice-for-some-but-not-right-for-everyone/",
+      "supports": "Minimalismo no adecuado para todos; adaptación gradual."
+    },
+    {
+      "name": "NHS",
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+      "supports": "Espacio/forma de puntera, longitud y protección sobre suelo duro; no avala este ranking."
+    },
+    {
+      "name": "Barefoot Opiniones",
+      "url": "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/",
+      "supports": "SERP España: separa moda, correr, diario y presupuesto. Inspeccionado texto completo, no usar como prueba técnica."
+    },
+    {
+      "name": "El País Escaparate",
+      "url": "https://elpais.com/escaparate/comparativas/2025-12-08/mejores-zapatillas-barefoot.html",
+      "supports": "SERP context for everyday-wear models, fit and adaptation questions."
+    }
+  ],
+  "ranking_policy": "Campaign direction: Lejan #1 fashion/everyday; Vivobarefoot running winner. Editorial ranking, not a verified performance fact. Disclosed campaign focus.",
+  "firsthand_evidence": [],
+  "image": "Existing original AI-generated generic featured image retained, labelled as such; no claim of product photography.",
+  "reviews": {
+    "factual": "Checked official model pages, materials, use, sizing and six live variant endpoints. No prices or first-hand tests. Lejan ranked for urban wear; Vivobarefoot is the running category choice.",
+    "editorial": "Reviewed Spain vocabulary, campaign disclosure, prolonged standing on hard floors, model tradeoffs, travel, children, occupational requirements and cautious gradual adaptation.",
+    "seo": "Reused sole matching canonical, synchronized update dates, checked H1, Open Graph, 2361 words, 10 ranked models, 0 article anchors, five matching FAQs and Article/Breadcrumb schema, image, blog and sitemap in Eleventy output."
+  },
+  "conflicts": [
+    "Lejan and Freet static availability labels conflict with live variant data. Public Shopify variant responses show orderable sizes; no stock counts published.",
+    "Merrell lists leather alongside a conflicting vegan bullet; use Leather material description and omit vegan claim."
+  ],
+  "brief": {
+    "intent": "Spanish women comparing fashion barefoot shoes for daily wear and long standing",
+    "decision": "Lejan Melrose #1 for style; Vivo running winner; individual fit overrides rank",
+    "image": "Retain original commissioned AI featured JPEG, generic and transparently labelled",
+    "links": "Zero article links by campaign instruction; sources stored here only"
+  },
+  "inventory_checks": {
+    "method": "Public official Shopify product JSON, available=true, variant counts at query time only",
+    "Lejan Melrose White": "11/11",
+    "Freet Citee 2": "11/13",
+    "Xero EU Dillon Canvas": "49/60",
+    "Feelgrounds Original Luxe": "73/105",
+    "Groundies Nova GO1": "40/47",
+    "Saguaro Roam I": "114/120",
+    "other_models": "Be Lenka, Barebarics, Vivobarefoot and Merrell official storefront listings and purchase controls; availability varies by colour and size."
+  }
+}
